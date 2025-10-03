@@ -1,0 +1,145 @@
+Cpd,Formula,Mass,Score,RT
+265,C18H30O2,278.2243,94.49,8.804
+3744,C17H13NO3,279.0898,89.54,5.037
+3757,C18H14O4,294.0878,88.82,3.764
+1582,C44H78O11,782.5578,88.68,15.015
+2035,C36H68O6,596.5016,88.3,15.82
+3358,C6H9NO3,143.0579,87.2,12.729
+2393,C46H86NO8P,811.6097,86.55,14.678
+2846,C42H70O15P2,876.4194,85.79,14.366
+1316,C31H46O12S,642.2723,85.63,12.651
+483,C24H38N2O,370.2971,85.18,18.416
+4086,C37H75NO3,581.5771,84.87,16.261
+521,C20H37NO2,323.2816,84.69,10.312
+3873,C44H81NO5,703.6133,84.35,22.909
+27,C16H19NO4,289.1328,84.22,16.52
+3412,C5H10N2O4,162.0636,84.2,8.232
+5015,C47H72O2,668.5536,83.4,19.117
+32,C6H5NO2,123.0321,83.1,13.093
+4874,C34H49NO10,631.3353,82.3,22.883
+375,C15H28N2O4,300.2051,81.98,7.998
+3344,C12H15N4O2S,279.0909,81.94,15.976
+
+
+
+Likely Marine/Seashell-Associated Compounds
+Cpd 3601: C16H19N3O5S (Mass: 365.1046)
+
+Possible Identity: Sulfonated peptide or modified amino acid
+Seashell Likelihood: Moderate - Contains sulfur which is found in some shell proteins
+Notes: Could be related to shell matrix proteins
+
+Cpd 1637: C64H117NO10 (Mass: 1059.8758)
+
+Possible Identity: Ceramide or sphingolipid
+Seashell Likelihood: High - Large lipid molecules are common in biomineralization membranes
+Notes: Consistent with membrane lipids in mollusk tissues
+
+Cpd 1860: C31H55NO7 (Mass: 553.3978)
+
+Possible Identity: Lipid-modified amino acid or glycolipid
+Seashell Likelihood: High - Could be involved in shell matrix
+Notes: Appropriate size for biomineralization-associated molecules
+
+Cpd 3186: C31H48NO13P (Mass: 673.2838)
+
+Possible Identity: Phosphorylated glycolipid or inositol phosphate
+Seashell Likelihood: Very High - Phosphorylated compounds are crucial in biomineralization
+Notes: Phosphate groups help regulate calcium carbonate deposition
+
+Cpd 3635: C7H11N5O (Mass: 181.0965)
+
+Possible Identity: Modified purine base or pterin derivative
+Seashell Likelihood: Low - More typical of metabolic intermediates
+Notes: Could be from bacterial contamination or tissue residue
+
+Cpd 3462: C12H23N3O5S2 (Mass: 353.1085)
+
+Possible Identity: Disulfide-containing peptide fragment
+Seashell Likelihood: Moderate-High - Disulfide bonds are common in shell matrix proteins
+Notes: Could be from structural proteins like conchiolin
+
+Cpd 1354: C66H108O12S (Mass: 1124.7582)
+
+Possible Identity: Sulfated polysaccharide or complex glycolipid
+Seashell Likelihood: Very High - Sulfated polysaccharides are key in shell formation
+Notes: Similar to components of the organic shell matrix
+
+Cpd 20: C16H18FN3O3 (Mass: 319.1314)
+
+Possible Identity: Fluorinated pharmaceutical or xenobiotic
+Seashell Likelihood: Very Low - Fluorine is extremely rare in natural marine compounds
+Notes: Likely environmental contamination
+
+Cpd 2236: C27H47O10P (Mass: 562.2907)
+
+Possible Identity: Phospholipid or phosphorylated sterol
+Seashell Likelihood: High - Phospholipids are essential for biomineralization membranes
+Notes: Could be cardiolipin-like molecule
+
+Cpd 1444: C35H59NO8 (Mass: 621.4269)
+
+Possible Identity: Modified steroid or bile acid conjugate
+Seashell Likelihood: Moderate - Sterols are present in mollusk tissues
+Notes: May be from soft tissue rather than shell matrix
+
+Cpd 3593: C10H6O4 (Mass: 190.0273)
+
+Possible Identity: Naphthalene dicarboxylic acid or chromone derivative
+Seashell Likelihood: Low - Could be degradation product or contaminant
+Notes: Aromatic structure suggests possible environmental origin
+
+Cpd 1736: C39H66O12 (Mass: 726.4574)
+
+Possible Identity: Saponin or complex glycoside
+Seashell Likelihood: Moderate-High - Glycosides can be part of shell matrix
+Notes: Could be involved in signaling or structural roles
+
+Cpd 3474: C12H21N3O4S (Mass: 303.1238)
+
+Possible Identity: Glutathione derivative or sulfur-containing peptide
+Seashell Likelihood: Moderate - Could be from metabolic processes
+Notes: Size consistent with small peptides in shell proteins
+
+Cpd 3400: C12H24N4O4S (Mass: 320.1503)
+
+Possible Identity: Modified oligopeptide
+Seashell Likelihood: Moderate - Could be shell matrix protein fragment
+Notes: Four nitrogens suggest peptidic nature
+
+Cpd 1280: C43H82O13S (Mass: 838.543)
+
+Possible Identity: Sulfated glycolipid or lipopolysaccharide
+Seashell Likelihood: Very High - Excellent candidate for shell matrix component
+Notes: Sulfation is characteristic of biomineralization molecules
+
+Cpd 3534: C4H11NO3 (Mass: 121.0736)
+
+Possible Identity: Threonine or modified aminoalcohol
+Seashell Likelihood: High - Could be threonine, common in shell proteins
+Notes: Simple amino acid or derivative
+
+Cpd 3142: C65H108NO11P (Mass: 1109.7686)
+
+Possible Identity: Complex phospholipid or cardiolipin analog
+Seashell Likelihood: Very High - Large phospholipids are crucial in biomineralization
+Notes: Similar to compounds regulating crystal growth
+
+Cpd 3654: C16H18O5 (Mass: 290.1161)
+
+Possible Identity: Flavonoid or phenolic glycoside
+Seashell Likelihood: Low-Moderate - Could be dietary origin or pigment
+Notes: May contribute to shell coloration
+
+Cpd 3033: C47H77O13P (Mass: 880.5098)
+
+Possible Identity: Phosphatidylinositol or complex phosphoglyceride
+Seashell Likelihood: Very High - Phosphoinositides regulate biomineralization
+Notes: Critical for calcium signaling in shell formation
+
+Cpd 635: C7H15NO (Mass: 129.1145)
+
+Possible Identity: Carnitine, aminoheptanol, or simple amino alcohol
+Seashell Likelihood: Moderate - Could be metabolite or osmolyte
+Notes: Small molecule, possibly involved in energy metabolism
+

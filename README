@@ -1,3 +1,10 @@
+Downloaded Refmet from metabolomics workbench: https://www.metabolomicsworkbench.org/databases/refmet/browse.php 
+
+\nR\w*,"[\w| |-|:|(|)|;|,|]*","[\w| |-|:|(|)|;]*","[\w| |-|:|(|)|;]*","[\w| |-|:|(|)|;]*",(\w*),.*
+^replace script...
+
+great!
+
 Page bending: https://www.youtube.com/watch?v=ijRabIP8GnA
 
 oooo the shrinkwrap modifier with project is actually great! this lets me map on a page just right :^)

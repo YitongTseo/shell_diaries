@@ -1,0 +1,237 @@
+================================================================================
+COMPOUND ANALYSIS REPORT
+================================================================================
+
+DATASET SUMMARY
+--------------------------------------------------------------------------------
+bigmed:
+  Total compounds: 4771
+  Score range: 50.01 - 99.94
+  Mass range: 82.04 - 1471.42
+  RT range: 0.34 - 22.96
+
+large:
+  Total compounds: 5266
+  Score range: 50.01 - 99.97
+  Mass range: 84.09 - 1613.99
+  RT range: 0.15 - 22.96
+
+med:
+  Total compounds: 8346
+  Score range: 50.01 - 99.96
+  Mass range: 82.04 - 1679.08
+  RT range: 0.25 - 22.96
+
+tiny:
+  Total compounds: 7752
+  Score range: 50.01 - 99.98
+  Mass range: 82.04 - 1625.13
+  RT range: 0.33 - 22.97
+
+
+================================================================================
+SHARED COMPOUNDS (appearing in 2+ runs)
+================================================================================
+
+Total shared formulas: 6775
+
+Top 20 Most Frequently Shared Compounds:
+--------------------------------------------------------------------------------
+
+Formula: C9H17N3O5S
+  Appears in 13 runs: large, large, large, large, large, large, large, large, large, large, large, large, tiny
+  Avg Mass: 279.0894
+  Avg Score: 74.27
+
+Formula: C35H52O4
+  Appears in 9 runs: bigmed, large, large, large, large, large, large, med, tiny
+  Avg Mass: 536.3871
+  Avg Score: 85.71
+
+Formula: C40H64O6
+  Appears in 8 runs: bigmed, large, large, large, large, large, med, tiny
+  Avg Mass: 640.4677
+  Avg Score: 74.05
+
+Formula: C28H57O7P
+  Appears in 8 runs: bigmed, large, large, large, large, large, med, tiny
+  Avg Mass: 536.3873
+  Avg Score: 72.43
+
+Formula: C35H58O5
+  Appears in 8 runs: bigmed, large, large, large, large, large, med, tiny
+  Avg Mass: 558.4323
+  Avg Score: 75.74
+
+Formula: C4H6O2
+  Appears in 8 runs: bigmed, large, large, large, large, large, med, tiny
+  Avg Mass: 86.0367
+  Avg Score: 81.42
+
+Formula: C15H22O
+  Appears in 8 runs: bigmed, large, large, large, large, large, med, tiny
+  Avg Mass: 218.1674
+  Avg Score: 77.44
+
+Formula: C34H65NO2
+  Appears in 8 runs: bigmed, large, large, large, large, large, med, tiny
+  Avg Mass: 519.5018
+  Avg Score: 98.78
+
+Formula: C62H122NO10P
+  Appears in 7 runs: bigmed, large, large, large, large, med, tiny
+  Avg Mass: 1071.8811
+  Avg Score: 76.69
+
+Formula: C24H36O5
+  Appears in 7 runs: bigmed, large, large, large, large, med, tiny
+  Avg Mass: 404.2563
+  Avg Score: 66.55
+
+Formula: C35H67O9P
+  Appears in 7 runs: bigmed, large, large, large, large, med, tiny
+  Avg Mass: 662.4473
+  Avg Score: 69.96
+
+Formula: C41H73O7P
+  Appears in 7 runs: bigmed, large, large, large, large, med, tiny
+  Avg Mass: 708.5087
+  Avg Score: 67.79
+
+Formula: C26H53N2O6P
+  Appears in 7 runs: bigmed, large, large, large, large, med, tiny
+  Avg Mass: 520.3638
+  Avg Score: 79.16
+
+Formula: C36H69NO9
+  Appears in 7 runs: bigmed, large, large, large, large, med, tiny
+  Avg Mass: 659.4976
+  Avg Score: 68.58
+
+Formula: C31H52N2O6
+  Appears in 7 runs: bigmed, large, large, large, large, med, tiny
+  Avg Mass: 548.3852
+  Avg Score: 72.12
+
+Formula: C41H58O6
+  Appears in 7 runs: bigmed, large, large, large, large, med, tiny
+  Avg Mass: 646.4239
+  Avg Score: 75.73
+
+Formula: C33H54O4
+  Appears in 7 runs: bigmed, large, large, large, large, med, tiny
+  Avg Mass: 514.4057
+  Avg Score: 72.39
+
+Formula: C8H14O4
+  Appears in 7 runs: bigmed, large, large, large, large, med, tiny
+  Avg Mass: 174.0896
+  Avg Score: 74.95
+
+Formula: C34H66NO9P
+  Appears in 7 runs: bigmed, large, large, large, large, med, tiny
+  Avg Mass: 663.4506
+  Avg Score: 77.26
+
+Formula: C9H16O
+  Appears in 7 runs: bigmed, large, large, large, large, med, tiny
+  Avg Mass: 140.1202
+  Avg Score: 97.89
+
+
+================================================================================
+TOP UNIQUE COMPOUNDS PER RUN
+================================================================================
+
+
+bigmed - Top 20 Unique Compounds:
+--------------------------------------------------------------------------------
+3601. C16H19N3O5S          Mass: 365.1046  Score: 91.56  RT:  4.749
+1637. C64H117NO10          Mass: 1059.8758  Score: 91.27  RT: 20.107
+1860. C31H55NO7            Mass: 553.3978  Score: 90.28  RT:  5.399
+3186. C31H48NO13P          Mass: 673.2838  Score: 89.78  RT: 13.611
+3635. C7H11N5O             Mass: 181.0965  Score: 86.70  RT:  3.763
+3462. C12H23N3O5S2         Mass: 353.1085  Score: 86.64  RT: 10.284
+1354. C66H108O12S          Mass: 1124.7582  Score: 86.63  RT: 18.885
+ 20. C16H18FN3O3          Mass: 319.1314  Score: 86.22  RT:  0.647
+2236. C27H47O10P           Mass: 562.2907  Score: 86.09  RT:  4.749
+1444. C35H59NO8            Mass: 621.4269  Score: 85.50  RT: 19.093
+3593. C10H6O4              Mass: 190.0273  Score: 84.73  RT:  0.933
+1736. C39H66O12            Mass: 726.4574  Score: 84.01  RT: 19.015
+3474. C12H21N3O4S          Mass: 303.1238  Score: 83.77  RT:  0.933
+3400. C12H24N4O4S          Mass: 320.1503  Score: 83.77  RT:  0.933
+1280. C43H82O13S           Mass: 838.5430  Score: 83.67  RT: 19.067
+3534. C4H11NO3             Mass: 121.0736  Score: 83.41  RT:  0.362
+3142. C65H108NO11P         Mass: 1109.7686  Score: 83.39  RT: 18.989
+3654. C16H18O5             Mass: 290.1161  Score: 83.29  RT:  0.933
+3033. C47H77O13P           Mass: 880.5098  Score: 83.11  RT: 18.989
+635. C7H15NO              Mass: 129.1145  Score: 83.01  RT: 17.612
+
+large - Top 20 Unique Compounds:
+--------------------------------------------------------------------------------
+265. C18H30O2             Mass: 278.2243  Score: 94.49  RT:  8.804
+3744. C17H13NO3            Mass: 279.0898  Score: 89.54  RT:  5.037
+3757. C18H14O4             Mass: 294.0878  Score: 88.82  RT:  3.764
+1582. C44H78O11            Mass: 782.5578  Score: 88.68  RT: 15.015
+2035. C36H68O6             Mass: 596.5016  Score: 88.30  RT: 15.820
+3358. C6H9NO3              Mass: 143.0579  Score: 87.20  RT: 12.729
+2393. C46H86NO8P           Mass: 811.6097  Score: 86.55  RT: 14.678
+2846. C42H70O15P2          Mass: 876.4194  Score: 85.79  RT: 14.366
+1316. C31H46O12S           Mass: 642.2723  Score: 85.63  RT: 12.651
+483. C24H38N2O            Mass: 370.2971  Score: 85.18  RT: 18.416
+4086. C37H75NO3            Mass: 581.5771  Score: 84.87  RT: 16.261
+521. C20H37NO2            Mass: 323.2816  Score: 84.69  RT: 10.312
+3873. C44H81NO5            Mass: 703.6133  Score: 84.35  RT: 22.909
+ 27. C16H19NO4            Mass: 289.1328  Score: 84.22  RT: 16.520
+3412. C5H10N2O4            Mass: 162.0636  Score: 84.20  RT:  8.232
+5015. C47H72O2             Mass: 668.5536  Score: 83.40  RT: 19.117
+ 32. C6H5NO2              Mass: 123.0321  Score: 83.10  RT: 13.093
+4874. C34H49NO10           Mass: 631.3353  Score: 82.30  RT: 22.883
+375. C15H28N2O4           Mass: 300.2051  Score: 81.98  RT:  7.998
+3344. C12H15N4O2S          Mass: 279.0909  Score: 81.94  RT: 15.976
+
+med - Top 20 Unique Compounds:
+--------------------------------------------------------------------------------
+734. C14H20O2             Mass: 220.1460  Score: 95.71  RT:  9.271
+858. C27H51NO             Mass: 405.3959  Score: 95.64  RT: 11.767
+1469. C33H66               Mass: 462.5160  Score: 95.63  RT: 18.133
+6641. C32H63NO2            Mass: 493.4851  Score: 95.34  RT: 11.871
+850. C24H49NO             Mass: 367.3819  Score: 94.80  RT: 17.821
+790. C25H48N6O8           Mass: 560.3524  Score: 94.61  RT:  7.841
+6182. C3H10N3O5PS          Mass: 231.0081  Score: 93.18  RT:  1.007
+6252. C22H44N6O10          Mass: 552.3124  Score: 93.01  RT:  4.619
+7549. C32H46O7             Mass: 542.3236  Score: 93.00  RT:  7.763
+3078. C32H49NO7            Mass: 559.3497  Score: 93.00  RT:  7.763
+7739. C32H45NO6            Mass: 539.3239  Score: 92.59  RT:  5.113
+6998. C36H65NO15           Mass: 751.4352  Score: 91.51  RT:  4.619
+5185. C25H47O13P           Mass: 586.2761  Score: 91.29  RT:  3.527
+5423. C31H46NO13P          Mass: 671.2689  Score: 91.04  RT:  4.229
+6900. C69H129NO5           Mass: 1051.9853  Score: 90.98  RT: 17.977
+8325. C29H40O5             Mass: 468.2874  Score: 90.71  RT:  7.556
+860. C28H57NO             Mass: 423.4425  Score: 90.07  RT: 19.874
+4844. C35H59O12P           Mass: 702.3732  Score: 89.56  RT: 14.054
+7642. C26H43NO8            Mass: 497.2969  Score: 89.49  RT: 14.547
+7259. C41H75N2O6P          Mass: 722.5343  Score: 89.11  RT: 14.106
+
+tiny - Top 20 Unique Compounds:
+--------------------------------------------------------------------------------
+3439. C24H41O10P           Mass: 520.2425  Score: 94.34  RT:  3.501
+1373. C18H36O6             Mass: 348.2511  Score: 93.94  RT:  8.570
+2879. C35H53NO7            Mass: 599.3822  Score: 93.92  RT:  4.619
+6961. C28H46O13            Mass: 590.2930  Score: 93.61  RT:  4.489
+4918. C19H32NO11P          Mass: 481.1717  Score: 93.59  RT:  3.293
+4438. C32H53O12P           Mass: 660.3244  Score: 93.57  RT: 16.030
+4633. C32H57O14P           Mass: 696.3492  Score: 90.53  RT:  4.307
+1562. C55H106O10           Mass: 926.7721  Score: 89.31  RT: 17.225
+5328. C16H22N6O4           Mass: 362.1690  Score: 89.26  RT: 11.429
+7355. C26H36O5S            Mass: 460.2295  Score: 88.29  RT:  3.397
+5441. C22H33N7O4           Mass: 459.2618  Score: 87.42  RT:  7.920
+1495. C51H94O15            Mass: 946.6590  Score: 86.44  RT: 18.472
+7448. C23H31NO7S           Mass: 465.1839  Score: 86.05  RT:  3.397
+493. C6H10O4S             Mass: 178.0292  Score: 85.46  RT: 13.301
+7281. C22H38O4S            Mass: 398.2496  Score: 85.33  RT:  4.099
+973. C22H41NO4S           Mass: 415.2761  Score: 85.33  RT:  4.099
+2472. C59H87NO8            Mass: 937.6428  Score: 85.18  RT: 13.405
+2190. C26H48O9             Mass: 504.3295  Score: 85.06  RT:  4.515
+3997. C41H62NO8P           Mass: 727.4242  Score: 84.65  RT:  5.737
+ 60. C8H17NO              Mass: 143.1305  Score: 84.53  RT:  5.763
