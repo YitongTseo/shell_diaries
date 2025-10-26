@@ -1,0 +1,2001 @@
+,Formula,Num_Runs,Run_Names,Avg_Score
+15289,C9H17N3O5S,13,"large, large, large, large, large, large, large, large, large, large, large, large, tiny",74.27076923076923
+6012,C35H52O4,9,"bigmed, large, large, large, large, large, large, med, tiny",85.70777777777778
+7376,C40H64O6,8,"bigmed, large, large, large, large, large, med, tiny",74.0475
+4295,C28H57O7P,8,"bigmed, large, large, large, large, large, med, tiny",72.43125
+6092,C35H58O5,8,"bigmed, large, large, large, large, large, med, tiny",75.74125000000001
+10179,C4H6O2,8,"bigmed, large, large, large, large, large, med, tiny",81.42375
+856,C15H22O,8,"bigmed, large, large, large, large, large, med, tiny",77.43625
+5917,C34H65NO2,8,"bigmed, large, large, large, large, large, med, tiny",98.775
+12973,C62H122NO10P,7,"bigmed, large, large, large, large, med, tiny",76.68714285714285
+2928,C24H36O5,7,"bigmed, large, large, large, large, med, tiny",66.55285714285715
+6207,C35H67O9P,7,"bigmed, large, large, large, large, med, tiny",69.96285714285715
+7734,C41H73O7P,7,"bigmed, large, large, large, large, med, tiny",67.79428571428572
+3681,C26H53N2O6P,7,"bigmed, large, large, large, large, med, tiny",79.1557142857143
+6466,C36H69NO9,7,"bigmed, large, large, large, large, med, tiny",68.57857142857144
+5002,C31H52N2O6,7,"bigmed, large, large, large, large, med, tiny",72.11571428571429
+7587,C41H58O6,7,"bigmed, large, large, large, large, med, tiny",75.73428571428572
+5545,C33H54O4,7,"bigmed, large, large, large, large, med, tiny",72.39428571428572
+15126,C8H14O4,7,"bigmed, large, large, large, large, med, tiny",74.94714285714285
+5932,C34H66NO9P,7,"bigmed, large, large, large, large, med, tiny",77.26285714285714
+15281,C9H16O,7,"bigmed, large, large, large, large, med, tiny",97.89428571428572
+4715,C30H49NO7,7,"bigmed, large, large, large, large, med, tiny",64.23285714285714
+4758,C30H52N2O6,7,"bigmed, large, large, large, large, med, tiny",62.395714285714284
+7820,C41H79O13P,7,"bigmed, large, large, large, large, med, tiny",74.56714285714285
+8011,C42H76NO10P,7,"bigmed, large, large, large, large, med, tiny",63.98285714285714
+5899,C34H63O9P,7,"bigmed, large, large, large, large, med, tiny",73.0
+2680,C23H36O4,6,"bigmed, large, large, large, med, tiny",75.87833333333333
+5112,C31H58O10,6,"bigmed, large, large, large, med, tiny",74.80333333333333
+11069,C53H82NO8P,6,"bigmed, large, large, large, med, tiny",97.36833333333334
+6997,C38H73NO9,6,"bigmed, large, large, large, med, tiny",64.78
+3031,C24H42O6,6,"bigmed, large, large, large, med, tiny",61.185
+8094,C42H81O7P,6,"bigmed, large, large, large, med, tiny",70.45333333333333
+2868,C24H30O6,6,"bigmed, large, large, large, med, tiny",88.04333333333334
+6766,C37H74NO9P,6,"bigmed, large, large, large, med, tiny",70.31833333333333
+6740,C37H71O9P,6,"bigmed, large, large, large, med, tiny",70.79666666666667
+6738,C37H71O7P,6,"bigmed, large, large, large, med, tiny",71.40666666666667
+8581,C44H78NO7P,6,"bigmed, large, large, large, med, tiny",59.105
+12531,C5H8O2,6,"bigmed, large, large, large, med, tiny",97.63499999999999
+1074,C16H26N6O5,6,"bigmed, large, large, large, med, tiny",75.13333333333334
+5393,C32H62NO11P,6,"bigmed, large, large, large, med, tiny",66.55
+6578,C37H59NO8,6,"bigmed, large, large, large, med, tiny",86.20833333333333
+608,C13H9NO2,6,"bigmed, large, large, large, med, tiny",70.125
+1444,C18H26O4,6,"bigmed, large, large, large, med, tiny",67.755
+7974,C42H73O10P,6,"bigmed, large, large, large, med, tiny",63.824999999999996
+2201,C21H33NO4,6,"bigmed, large, large, large, med, tiny",56.39166666666667
+5547,C33H54O6,6,"bigmed, large, large, large, med, tiny",77.22666666666667
+13467,C65H127O8P,6,"bigmed, large, large, large, med, tiny",74.88333333333334
+158,C11H14N2O4,6,"bigmed, large, large, large, med, tiny",68.35666666666667
+6395,C36H64NO9P,6,"bigmed, large, large, large, med, tiny",80.11666666666666
+7139,C39H67N2O6P,6,"bigmed, large, large, large, med, tiny",75.21666666666667
+10341,C50H88NO11P,6,"bigmed, large, large, large, med, tiny",77.62666666666667
+7176,C39H69O7P,6,"bigmed, large, large, large, med, tiny",74.06166666666667
+7550,C40H78NO9P,6,"bigmed, large, large, large, med, tiny",73.71666666666665
+4577,C29H57O7P,6,"bigmed, large, large, large, med, tiny",79.165
+1197,C17H19NO4,6,"bigmed, large, large, large, med, tiny",74.24166666666666
+9057,C46H64O4,6,"bigmed, large, large, large, med, tiny",61.65
+9081,C46H70O4,6,"bigmed, large, large, large, med, tiny",66.51666666666667
+4296,C28H57O8P,6,"bigmed, large, large, large, med, tiny",76.73833333333333
+8446,C44H66O4,6,"bigmed, large, large, large, med, tiny",69.8
+9308,C46H90NO8P,6,"bigmed, large, large, large, med, tiny",62.25833333333333
+8388,C43H83O7P,6,"bigmed, large, large, large, med, tiny",70.54
+4241,C28H52NO7P,6,"bigmed, large, large, large, med, tiny",68.49333333333333
+1155,C16H32O,6,"bigmed, large, large, large, med, tiny",94.60666666666667
+9574,C47H89O14P,6,"bigmed, large, large, large, med, tiny",70.37333333333333
+1171,C16H35N,6,"bigmed, large, large, large, med, tiny",92.86833333333334
+9624,C48H68O4,6,"bigmed, large, large, large, med, tiny",58.40166666666667
+1274,C17H30N6O4S,6,"bigmed, large, large, large, med, tiny",77.655
+1488,C18H30O,6,"large, large, large, large, med, tiny",76.95666666666666
+9829,C48H90NO11P,6,"bigmed, large, large, large, med, tiny",78.685
+9971,C49H81NO13,6,"bigmed, large, large, large, med, tiny",64.49666666666667
+8120,C42H85N2O6P,6,"bigmed, large, large, large, med, tiny",61.415
+3586,C26H45NO4,6,"bigmed, large, large, large, med, tiny",70.91166666666668
+7254,C39H75O7P,6,"bigmed, large, large, large, med, tiny",70.05166666666666
+10193,C4H9NO2,6,"bigmed, large, large, large, large, tiny",83.64333333333333
+10322,C50H85O11P,6,"bigmed, large, large, large, med, tiny",76.77833333333332
+13578,C66H124NO8P,6,"bigmed, large, large, large, med, tiny",68.27
+7964,C42H73N2O6P,6,"bigmed, large, large, large, med, tiny",65.63666666666667
+2013,C20H37NO4,6,"bigmed, large, large, large, med, tiny",61.165
+14031,C6H12,6,"bigmed, large, large, large, med, tiny",96.71666666666665
+1492,C18H30O3S,6,"bigmed, large, large, large, med, tiny",77.58666666666666
+1537,C18H35NO2,6,"bigmed, large, large, large, med, tiny",94.28333333333335
+14108,C6H8O,6,"bigmed, large, large, large, med, tiny",86.15166666666666
+6236,C35H70NO9P,6,"bigmed, large, large, large, med, tiny",66.53500000000001
+1536,C18H35NO,6,"bigmed, large, large, large, med, tiny",89.13499999999999
+6193,C35H67N2O6P,6,"bigmed, large, large, large, med, tiny",70.84333333333333
+15267,C9H15NO5,6,"bigmed, bigmed, large, large, med, tiny",68.81166666666667
+5008,C31H52O11,5,"bigmed, large, large, med, tiny",69.90599999999999
+3854,C27H45NO,5,"bigmed, large, large, med, tiny",63.848
+7400,C40H67NO6,5,"bigmed, large, large, med, tiny",73.048
+6175,C35H65NO4,5,"bigmed, large, large, med, tiny",54.55800000000001
+9730,C48H81O8P,5,"large, large, large, large, tiny",54.367999999999995
+6128,C35H61NO5,5,"bigmed, large, large, med, tiny",76.882
+6181,C35H65O9P,5,"bigmed, large, large, med, tiny",57.86
+3721,C27H34O4,5,"bigmed, large, large, med, tiny",72.64399999999999
+7456,C40H71NO9,5,"bigmed, large, large, med, tiny",64.2
+3989,C27H53O9P,5,"bigmed, large, large, med, tiny",67.616
+1099,C16H28O4,5,"bigmed, large, large, med, tiny",72.494
+5007,C31H52O10,5,"bigmed, large, large, med, tiny",76.032
+9910,C49H68O4,5,"bigmed, large, large, med, tiny",70.872
+7522,C40H76O10,5,"bigmed, large, large, large, tiny",60.612
+4072,C28H40O6,5,"large, large, large, med, tiny",58.512
+7524,C40H76O12S,5,"bigmed, large, large, med, tiny",61.568000000000005
+699,C14H24O2,5,"bigmed, large, large, med, tiny",98.922
+6121,C35H60O8,5,"bigmed, large, large, med, tiny",62.862
+1942,C20H31NO6,5,"bigmed, large, large, med, tiny",85.724
+9478,C47H81O8P,5,"bigmed, large, large, med, tiny",67.73
+4183,C28H48O4,5,"bigmed, large, large, med, tiny",79.50399999999999
+1233,C17H24O3,5,"bigmed, large, large, med, tiny",72.796
+4217,C28H50O5,5,"bigmed, large, large, large, tiny",63.79600000000001
+9841,C48H91NO9,5,"bigmed, large, large, large, med",53.524
+6390,C36H64N7O18P3S,5,"bigmed, large, large, med, tiny",83.76
+9941,C49H76O4,5,"bigmed, large, large, med, tiny",71.664
+727,C14H26O,5,"bigmed, large, large, med, tiny",86.244
+1076,C16H26O3,5,"bigmed, large, large, large, med",59.248000000000005
+3391,C25H51NO4,5,"bigmed, large, large, med, tiny",75.36600000000001
+7223,C39H73NO9,5,"bigmed, large, large, med, tiny",70.65
+5682,C33H65NO8,5,"bigmed, large, large, large, large",63.448
+10340,C50H87O9P,5,"bigmed, large, large, med, tiny",59.722
+14143,C70H118O13S,5,"bigmed, large, large, med, tiny",74.69800000000001
+3444,C26H34O6,5,"bigmed, large, large, med, tiny",73.17999999999999
+1302,C17H33N5O5,5,"bigmed, large, large, med, tiny",82.36800000000001
+10251,C50H78O4,5,"bigmed, large, large, med, tiny",59.64
+10245,C50H78NO8P,5,"bigmed, large, large, med, tiny",54.2
+389,C12H21N5O3,5,"bigmed, large, large, med, tiny",75.048
+5580,C33H57NO6,5,"bigmed, large, large, med, tiny",78.756
+14229,C71H102O6,5,"bigmed, large, large, large, med",73.20599999999999
+397,C12H21NO5,5,"bigmed, large, large, med, tiny",62.532
+2004,C20H36O3,5,"bigmed, large, large, med, tiny",61.548
+7286,C39H78NO9P,5,"bigmed, large, large, med, tiny",63.972
+10114,C49H93NO9,5,"bigmed, large, large, large, tiny",56.098
+3637,C26H48O3,5,"bigmed, large, large, med, tiny",64.17999999999999
+3638,C26H48O4,5,"bigmed, large, large, large, large",64.33
+3678,C26H52NO9P,5,"bigmed, large, large, med, tiny",79.964
+1986,C20H34O8,5,"bigmed, large, large, med, tiny",83.944
+10014,C49H84O15,5,"bigmed, large, large, med, tiny",54.839999999999996
+3682,C26H53N2O7P,5,"bigmed, large, large, med, tiny",90.688
+9994,C49H83NO13,5,"bigmed, large, large, med, tiny",65.398
+911,C15H26O3,5,"bigmed, large, large, med, tiny",69.922
+9960,C49H79O8P,5,"bigmed, large, large, large, med",72.714
+9262,C46H86NO13P,5,"bigmed, large, large, med, tiny",74.524
+4249,C28H52O5,5,"bigmed, large, large, med, tiny",65.426
+8235,C43H73NO8,5,"bigmed, large, large, med, tiny",73.172
+8536,C44H75NO6,5,"bigmed, large, large, med, tiny",65.84200000000001
+1126,C16H30O3,5,"bigmed, large, large, med, tiny",68.56800000000001
+7761,C41H75O15P,5,"large, large, large, large, tiny",59.326
+1160,C16H33NO,5,"bigmed, large, large, med, tiny",83.936
+1557,C18H37NO,5,"bigmed, large, large, med, tiny",84.272
+7801,C41H78O5,5,"bigmed, large, large, med, tiny",67.84400000000001
+1761,C19H37NO3,5,"bigmed, large, large, med, tiny",70.166
+1156,C16H32O2,5,"bigmed, large, large, med, tiny",94.036
+8361,C43H82NO7P,5,"bigmed, large, large, med, tiny",60.589999999999996
+8304,C43H77O7P,5,"bigmed, large, large, med, tiny",65.84
+580,C13H26,5,"bigmed, large, large, med, tiny",91.806
+1127,C16H30O4,5,"bigmed, large, large, med, tiny",70.292
+4841,C30H57NO5,5,"bigmed, large, large, med, tiny",74.406
+4595,C29H61N2O6P,5,"bigmed, large, large, med, tiny",64.244
+7843,C41H81NO5,5,"bigmed, large, large, med, tiny",57.02
+4714,C30H49NO6,5,"bigmed, large, large, med, tiny",68.19
+8137,C43H56O6,5,"bigmed, large, large, med, tiny",64.486
+5993,C35H50N2O5,5,"bigmed, large, large, med, tiny",52.666
+939,C15H29N3O4,5,"bigmed, large, large, large, tiny",64.47200000000001
+4832,C30H56O5,5,"bigmed, large, large, med, tiny",57.794000000000004
+4802,C30H54O13S,5,"bigmed, large, large, med, tiny",73.62
+15314,C9H19N3O4,5,"bigmed, large, large, med, tiny",72.562
+4726,C30H50NO7P,5,"bigmed, large, large, med, tiny",54.976
+21,C10H13N3O2,5,"bigmed, large, large, med, tiny",82.422
+7945,C42H71NO6,5,"bigmed, large, large, med, tiny",74.114
+4784,C30H53NO8,5,"bigmed, large, large, large, tiny",58.31
+8538,C44H75NO8,5,"bigmed, large, large, med, tiny",66.51599999999999
+1125,C16H30O2,5,"bigmed, large, large, med, tiny",76.088
+4255,C28H53NO7,5,"bigmed, large, large, med, tiny",72.912
+8933,C45H81O7P,5,"bigmed, large, large, med, tiny",64.134
+4271,C28H55N2O7P,5,"bigmed, large, large, med, tiny",72.854
+1893,C20H28O3,5,"bigmed, large, large, med, tiny",66.324
+1842,C20H24O2,5,"bigmed, large, large, med, tiny",79.50399999999999
+4297,C28H57O9P,5,"bigmed, large, large, med, tiny",67.346
+9115,C46H74O10,5,"bigmed, large, large, med, tiny",65.432
+7641,C41H66O6,5,"bigmed, large, large, med, tiny",62.358000000000004
+5808,C34H56O5,5,"bigmed, large, large, large, tiny",60.403999999999996
+9077,C46H70NO8P,5,"bigmed, large, large, med, tiny",57.55
+15169,C8H18O3,5,"bigmed, large, large, med, tiny",82.902
+4399,C29H45NO5,5,"bigmed, large, large, med, tiny",67.838
+7663,C41H68O9,5,"bigmed, large, large, med, tiny",61.262
+7666,C41H69NO6,5,"bigmed, large, large, med, tiny",69.236
+4864,C30H59N2O7P,5,"bigmed, large, large, med, tiny",70.588
+8568,C44H77NO9,5,"bigmed, large, large, med, tiny",75.498
+8863,C45H77NO8,5,"bigmed, large, large, med, tiny",61.05
+1121,C16H30N6O6,5,"bigmed, large, large, med, tiny",64.088
+7703,C41H71NO9,5,"bigmed, large, large, med, tiny",62.96600000000001
+542,C13H22O2,5,"bigmed, large, large, med, tiny",75.65599999999999
+8802,C45H72NO7P,5,"bigmed, large, large, med, tiny",65.19800000000001
+1124,C16H30O,5,"bigmed, large, large, med, tiny",83.86800000000001
+6034,C35H54O4,5,"bigmed, large, large, med, tiny",68.104
+1172,C16H35NO2,5,"bigmed, large, large, med, tiny",96.652
+8739,C44H89O7P,5,"bigmed, large, large, med, tiny",60.82000000000001
+8622,C44H80O12S,5,"bigmed, large, large, med, tiny",59.79
+556,C13H23NO6,5,"bigmed, large, large, med, tiny",66.522
+4533,C29H54O10,5,"bigmed, large, large, med, tiny",78.55199999999999
+3366,C25H48O4,5,"bigmed, large, large, med, tiny",80.22200000000001
+10195,C4H9NO4,5,"bigmed, large, large, med, tiny",82.808
+746,C14H28,5,"bigmed, large, large, med, tiny",98.274
+1366,C18H18O5,5,"bigmed, large, large, med, tiny",91.24600000000001
+264,C11H21NO5,5,"bigmed, large, large, med, tiny",75.43199999999999
+900,C15H26N6O4,5,"bigmed, large, large, large, large",62.532
+12402,C59H113O13P,5,"bigmed, large, large, med, tiny",64.648
+12390,C59H112O15,5,"bigmed, large, large, med, tiny",82.262
+12308,C58H98O6,5,"bigmed, large, large, med, tiny",53.00600000000001
+6877,C38H64O9,5,"bigmed, large, large, med, tiny",72.6
+6881,C38H65NO3,5,"large, large, large, med, tiny",62.374
+6477,C36H70NO9P,5,"bigmed, large, large, med, tiny",68.682
+1513,C18H32O,5,"bigmed, large, large, med, tiny",92.74600000000001
+2269,C21H38O2,5,"bigmed, large, large, med, tiny",65.74
+1379,C18H20O4,5,"bigmed, large, large, med, tiny",72.986
+12001,C57H111O13P,5,"bigmed, large, large, med, tiny",60.952
+6296,C36H56O4,5,"bigmed, large, large, med, tiny",60.724000000000004
+11989,C57H110O13S,5,"bigmed, large, large, med, tiny",67.556
+2452,C22H34O5,5,"bigmed, large, large, med, tiny",64.39200000000001
+2217,C21H34O5S,5,"bigmed, large, large, med, tiny",73.03
+13802,C68H121O13P,5,"bigmed, large, large, med, tiny",75.444
+6910,C38H67NO9,5,"bigmed, large, large, med, tiny",62.69199999999999
+2949,C24H38O4,5,"bigmed, large, large, med, tiny",86.352
+1038,C16H22O4,5,"bigmed, large, large, med, tiny",85.958
+2020,C20H38O,5,"bigmed, large, large, med, tiny",87.3
+13886,C69H107NO9,5,"bigmed, large, large, med, tiny",64.392
+12757,C61H111O13P,5,"bigmed, large, large, med, tiny",71.174
+6585,C37H60NO6P,5,"bigmed, large, large, med, tiny",77.098
+12912,C62H112NO8P,5,"bigmed, large, large, med, tiny",70.922
+2433,C22H32O8,5,"bigmed, large, large, med, tiny",79.928
+6609,C37H62NO6P,5,"large, large, large, med, tiny",60.69199999999999
+2432,C22H32O6,5,"bigmed, large, large, med, tiny",77.122
+6619,C37H63N2O6P,5,"bigmed, large, large, med, tiny",77.15599999999999
+120,C10H21N5O4,5,"bigmed, large, large, med, tiny",69.274
+6571,C37H58O5,5,"bigmed, large, large, med, tiny",70.41600000000001
+6648,C37H65N2O6P,5,"large, large, large, med, tiny",58.036
+811,C15H18N2,5,"bigmed, large, large, med, tiny",70.022
+6570,C37H58O4,5,"bigmed, large, large, med, tiny",66.782
+2545,C22H42O4,5,"bigmed, large, large, med, tiny",86.828
+6715,C37H70NO7P,5,"bigmed, large, large, large, large",63.30800000000001
+6716,C37H70NO9P,5,"bigmed, large, large, med, tiny",56.48199999999999
+12532,C5H8O3,5,"large, large, large, med, tiny",82.582
+5679,C33H65NO3,5,"bigmed, large, large, med, tiny",76.15599999999999
+1312,C17H33NO5,5,"bigmed, large, large, med, tiny",62.644000000000005
+6556,C37H57O13P,5,"bigmed, large, large, med, tiny",61.903999999999996
+13796,C68H120O13S,5,"bigmed, large, large, med, tiny",68.886
+1466,C18H28N6O6,5,"bigmed, large, large, med, tiny",72.364
+2963,C24H39NO5,5,"bigmed, large, large, med, tiny",64.258
+756,C14H28O3,5,"bigmed, large, large, med, tiny",73.684
+10733,C51H99O8P,5,"bigmed, large, large, med, tiny",57.172000000000004
+752,C14H28N6O5,5,"bigmed, large, large, large, med",65.068
+6363,C36H61O9P,5,"bigmed, large, large, med, tiny",81.202
+2168,C21H30N4O4,5,"bigmed, large, large, med, tiny",82.322
+6430,C36H66O9,5,"bigmed, large, large, med, tiny",72.99199999999999
+13564,C66H121O8P,5,"bigmed, large, large, med, tiny",75.112
+14076,C6H4Cl2O2,5,"bigmed, large, large, med, tiny",62.05800000000001
+5546,C33H54O5,5,"bigmed, large, large, med, tiny",76.062
+14063,C6H15N,5,"bigmed, large, large, med, tiny",99.652
+7092,C39H63NO6,5,"bigmed, large, large, med, tiny",67.46400000000001
+881,C15H24O3,5,"bigmed, large, large, med, tiny",71.146
+5119,C31H58O6,5,"bigmed, large, large, med, tiny",69.152
+763,C14H29NO2,5,"bigmed, large, large, med, tiny",72.638
+762,C14H29NO,5,"bigmed, large, large, med, tiny",86.316
+11356,C54H87O9P,5,"bigmed, large, large, med, tiny",62.815999999999995
+6346,C36H61N2O6P,5,"bigmed, large, large, med, tiny",60.85
+1515,C18H32O3,5,"bigmed, large, large, med, tiny",75.25
+11575,C55H85NO8,5,"bigmed, large, large, med, tiny",74.24600000000001
+6987,C38H72O9,5,"bigmed, large, large, med, tiny",61.064
+13312,C64H126NO7P,5,"bigmed, large, large, med, tiny",64.774
+13313,C64H126NO8P,5,"bigmed, large, large, med, tiny",67.388
+2988,C24H40O6,5,"bigmed, large, large, med, tiny",86.226
+14041,C6H12O4,5,"bigmed, large, large, med, tiny",72.796
+5267,C32H53NO6,5,"bigmed, large, large, med, tiny",68.862
+2014,C20H37NO4S,5,"bigmed, large, large, med, tiny",75.00399999999999
+6999,C38H73O7P,5,"large, large, large, med, tiny",62.644000000000005
+773,C14H31NO,5,"bigmed, large, large, med, tiny",98.96000000000001
+1472,C18H28O4,5,"bigmed, large, large, med, tiny",70.536
+6461,C36H69NO2,5,"bigmed, large, large, med, tiny",88.15
+2192,C21H32O3,5,"bigmed, large, large, med, tiny",66.612
+761,C14H29N9O4,5,"bigmed, large, large, large, tiny",59.826
+5641,C33H62NO11P,4,"bigmed, large, med, tiny",77.635
+5839,C34H59NO5,4,"bigmed, large, med, tiny",61.4725
+5470,C33H47NO6,4,"bigmed, large, med, tiny",77.275
+5908,C34H64O14,4,"bigmed, large, med, tiny",66.64500000000001
+5914,C34H65NO11S,4,"bigmed, large, med, tiny",86.565
+5573,C33H56O9,4,"bigmed, large, med, tiny",61.785000000000004
+5493,C33H50O13,4,"bigmed, large, med, tiny",69.3775
+5883,C34H62O11,4,"bigmed, large, med, tiny",60.480000000000004
+5478,C33H48O8,4,"bigmed, large, med, tiny",54.3725
+5884,C34H62O11S,4,"bigmed, large, med, tiny",87.63499999999999
+5480,C33H49NO5,4,"bigmed, large, med, tiny",59.7225
+5567,C33H56O13,4,"bigmed, large, med, tiny",65.865
+4786,C30H53NO9S,4,"bigmed, large, med, tiny",73.3525
+5898,C34H63O8P,4,"bigmed, large, med, tiny",77.955
+5612,C33H59NO4,4,"bigmed, large, med, tiny",64.05499999999999
+4797,C30H54NO7P,4,"bigmed, large, med, tiny",72.785
+5494,C33H50O14,4,"bigmed, large, med, tiny",72.0175
+5589,C33H58NO10P,4,"large, large, med, tiny",72.9325
+5495,C33H50O2,4,"bigmed, large, med, tiny",58.77
+5901,C34H64N4O4,4,"bigmed, large, med, tiny",60.295
+5530,C33H53NO9,4,"bigmed, large, med, tiny",64.5875
+5535,C33H53O7P,4,"bigmed, large, med, tiny",63.2
+5650,C33H62O3,4,"bigmed, large, med, tiny",64.8975
+5797,C34H56NO7P,4,"bigmed, large, med, tiny",60.205
+5428,C32H65NO3,4,"bigmed, large, med, tiny",87.7325
+5041,C31H54NO13P,4,"bigmed, large, med, tiny",69.8
+5278,C32H54N2O,4,"bigmed, large, med, tiny",65.0075
+5268,C32H53NO7,4,"bigmed, large, med, tiny",56.34
+5023,C31H53NO10S,4,"bigmed, large, med, tiny",72.7375
+5037,C31H53O9P,4,"bigmed, large, med, tiny",56.73
+5241,C32H50O3,4,"bigmed, large, med, tiny",73.09
+5215,C32H48NO10P,4,"bigmed, large, med, tiny",85.065
+4779,C30H53N2O6P,4,"bigmed, large, med, tiny",70.945
+5171,C31H65N2O6P,4,"bigmed, large, med, tiny",71.85
+5040,C31H54NO10P,4,"bigmed, large, med, tiny",65.6175
+5158,C31H62NO6P,4,"bigmed, large, med, tiny",77.1425
+5042,C31H54NO4,4,"bigmed, large, med, tiny",70.505
+5021,C31H52O9,4,"bigmed, large, large, large",64.41
+5123,C31H59NO6,4,"bigmed, large, med, tiny",70.5125
+5705,C34H40N4O4,4,"bigmed, large, med, tiny",72.0925
+5052,C31H54O8,4,"bigmed, large, med, tiny",62.425
+5057,C31H55NO14,4,"bigmed, large, med, tiny",65.3825
+5060,C31H55NO5S,4,"bigmed, large, med, tiny",53.155
+5118,C31H58O5,4,"large, large, med, tiny",57.475
+5108,C31H58NO10P,4,"bigmed, large, med, tiny",87.04
+5071,C31H55O7P,4,"bigmed, large, med, tiny",66.4275
+5101,C31H57NO9,4,"large, large, med, tiny",67.03
+5091,C31H57N3O3,4,"bigmed, large, large, tiny",55.355000000000004
+5281,C32H54NO6P,4,"bigmed, large, med, tiny",69.8425
+5015,C31H52O21P4,4,"bigmed, large, med, tiny",59.6425
+4861,C30H58O4S,4,"bigmed, large, med, tiny",98.6125
+4898,C31H40O7,4,"bigmed, large, med, tiny",70.6875
+5405,C32H63N3O4,4,"bigmed, large, med, tiny",68.6425
+5401,C32H62O3,4,"bigmed, large, med, tiny",87.1825
+5822,C34H57O7P,4,"bigmed, large, med, tiny",64.2525
+4868,C30H59NO3,4,"bigmed, large, med, tiny",57.25
+5400,C32H62O2,4,"bigmed, large, med, tiny",68.7025
+5659,C33H63NO5,4,"bigmed, large, med, tiny",60.834999999999994
+5379,C32H61NO11S,4,"bigmed, large, med, tiny",64.12
+4890,C30H62O10,4,"bigmed, large, med, tiny",82.4275
+5363,C32H59O7P,4,"bigmed, large, med, tiny",79.9
+5353,C32H59N3O3,4,"bigmed, large, med, tiny",68.67
+5346,C32H58O11,4,"bigmed, large, med, tiny",68.44
+5011,C31H52O13,4,"bigmed, large, med, tiny",61.3675
+4972,C31H49NO4,4,"bigmed, large, med, tiny",60.2175
+5739,C34H51NO6,4,"bigmed, large, med, tiny",68.9925
+4973,C31H49NO5S,4,"bigmed, large, med, tiny",55.415
+4980,C31H50N2O3,4,"bigmed, large, med, tiny",60.2
+5298,C32H55NO5,4,"bigmed, large, med, tiny",71.0925
+4996,C31H51O10P,4,"bigmed, large, med, tiny",65.39750000000001
+5292,C32H54O4,4,"bigmed, large, large, med",64.6
+5720,C34H48O6,4,"bigmed, large, med, tiny",63.945
+5003,C31H52N2O7,4,"bigmed, large, med, tiny",68.71
+5291,C32H54O3,4,"bigmed, large, med, tiny",64.9875
+5200,C32H45O10P,4,"bigmed, large, med, tiny",76.2625
+3,C10H10O2,4,"bigmed, large, med, tiny",73.7625
+4734,C30H50O4,4,"bigmed, large, large, tiny",63.485
+2480,C22H37N3O3,4,"bigmed, large, med, tiny",69.435
+2437,C22H33N5O4S,4,"bigmed, large, med, tiny",73.99
+2421,C22H31NO6S,4,"bigmed, large, med, tiny",56.8
+2401,C22H29NO6,4,"bigmed, large, med, tiny",90.485
+2398,C22H29N10O8P,4,"bigmed, large, med, tiny",75.38
+2395,C22H28O6S,4,"bigmed, large, med, tiny",56.8
+2386,C22H28N2O3,4,"bigmed, large, med, tiny",66.91749999999999
+2377,C22H27ClN4O3,4,"bigmed, large, med, tiny",62.695
+2368,C22H26O3,4,"bigmed, large, med, tiny",64.7175
+2365,C22H26O,4,"bigmed, large, med, tiny",66.69
+2359,C22H25N2OS,4,"bigmed, large, med, tiny",65.5675
+2328,C21H44NO6P,4,"bigmed, large, med, tiny",65.61500000000001
+2317,C21H43N2O5P,4,"bigmed, large, med, tiny",63.67
+2301,C21H41NO4,4,"bigmed, large, med, tiny",64.5575
+2296,C21H41N5O7,4,"bigmed, large, med, tiny",90.5775
+2219,C21H34O6S,4,"bigmed, large, med, tiny",73.44500000000001
+2203,C21H33NO6,4,"bigmed, large, med, tiny",72.6625
+2196,C21H32O5S,4,"bigmed, large, med, tiny",60.6825
+2185,C21H31NO7,4,"bigmed, large, med, tiny",56.58
+2175,C21H30O4,4,"large, large, med, tiny",58.8525
+2459,C22H35NO4,4,"large, large, med, tiny",67.97
+2483,C22H37NO6S,4,"bigmed, large, med, tiny",68.6525
+2131,C21H27ClN2O2,4,"bigmed, large, med, tiny",68.425
+2490,C22H38O,4,"bigmed, large, med, tiny",70.39750000000001
+2864,C24H30O4,4,"bigmed, large, large, tiny",58.5
+2833,C24H25O13,4,"bigmed, large, med, tiny",59.410000000000004
+2789,C23H45N2O6P,4,"bigmed, large, med, tiny",81.2375
+2787,C23H44O4,4,"bigmed, large, med, tiny",80.1575
+2778,C23H43NO5,4,"bigmed, large, med, tiny",71.4
+2757,C23H41NO9S,4,"bigmed, large, med, tiny",60.8675
+2736,C23H40O5,4,"bigmed, large, med, tiny",74.2125
+2642,C23H32O4,4,"bigmed, large, med, tiny",72.68
+2601,C23H28O5,4,"bigmed, large, med, tiny",66.89
+2586,C23H25NO4,4,"bigmed, large, med, tiny",67.525
+2584,C23H24O6,4,"bigmed, large, med, tiny",75.365
+2574,C22H46NO6P,4,"bigmed, large, med, tiny",61.59
+2551,C22H43NO,4,"bigmed, large, med, tiny",94.175
+2533,C22H41NO5,4,"bigmed, large, med, tiny",66.6925
+2524,C22H40O8,4,"bigmed, large, med, tiny",67.7325
+2522,C22H40O4,4,"bigmed, large, med, tiny",61.12
+2520,C22H40O2,4,"bigmed, large, med, tiny",61.519999999999996
+2496,C22H38O5S,4,"bigmed, large, med, tiny",84.625
+2495,C22H38O5,4,"bigmed, large, med, tiny",65.705
+2141,C21H28N4O4,4,"bigmed, large, med, tiny",63.457499999999996
+2127,C21H26O6,4,"bigmed, large, med, tiny",61.6875
+4733,C30H50O3,4,"bigmed, large, med, tiny",65.4875
+1969,C20H33NO5S,4,"bigmed, large, med, tiny",64.47749999999999
+1949,C20H32N4O4,4,"bigmed, large, med, tiny",62.255
+1934,C20H31N3O5,4,"bigmed, large, med, tiny",77.575
+1930,C20H30O6,4,"bigmed, large, med, tiny",69.6875
+1925,C20H30O2,4,"large, large, large, tiny",74.195
+1830,C20H22O5,4,"bigmed, large, large, tiny",85.7475
+1803,C20H16N4,4,"bigmed, large, med, tiny",81.1225
+1785,C19H40NO6P,4,"bigmed, large, med, tiny",78.065
+1780,C19H39NO4S,4,"bigmed, large, med, tiny",55.64
+1777,C19H39NO,4,"bigmed, large, med, tiny",86.575
+1775,C19H38O4,4,"bigmed, large, med, tiny",64.84
+1715,C19H32O4S,4,"bigmed, large, med, tiny",72.46000000000001
+1714,C19H32O4,4,"bigmed, large, med, tiny",70.84
+1701,C19H30O8,4,"bigmed, large, med, tiny",73.02250000000001
+1665,C19H27N5O7,4,"bigmed, large, med, tiny",71.6575
+1649,C19H26N4O5,4,"bigmed, large, med, tiny",59.542500000000004
+1610,C19H22O,4,"bigmed, large, med, tiny",78.735
+1594,C19H20O4,4,"bigmed, large, med, tiny",79.97749999999999
+1593,C19H20O3,4,"bigmed, large, large, med",66.6225
+1575,C18H39O7P,4,"bigmed, large, med, tiny",93.3725
+1958,C20H32O4,4,"bigmed, large, large, tiny",66.9025
+1970,C20H33NO6,4,"bigmed, large, med, tiny",64.75
+2114,C21H25NO8,4,"bigmed, large, med, tiny",88.3425
+1978,C20H34O4,4,"bigmed, large, med, tiny",73.0
+2090,C21H23NO5,4,"bigmed, large, med, tiny",79.1775
+2072,C21H18O4,4,"bigmed, large, med, tiny",70.17750000000001
+2067,C20H43O8P,4,"bigmed, large, med, tiny",74.6575
+2066,C20H43NO2,4,"bigmed, large, med, tiny",91.0075
+2062,C20H42O11,4,"bigmed, large, med, tiny",97.0825
+2055,C20H41O8P,4,"bigmed, large, med, tiny",64.6575
+2048,C20H41NO,4,"bigmed, large, med, tiny",91.5325
+2045,C20H40O3,4,"bigmed, large, med, tiny",76.8375
+2044,C20H40O2,4,"bigmed, large, med, tiny",93.6675
+2035,C20H39O7P,4,"bigmed, large, med, tiny",63.5075
+2034,C20H39NO7,4,"bigmed, large, med, tiny",73.645
+2027,C20H39NO,4,"bigmed, large, med, tiny",81.4325
+2024,C20H38O5,4,"bigmed, large, med, tiny",69.285
+2018,C20H38N2O3,4,"bigmed, large, med, tiny",67.80499999999999
+2009,C20H36O9,4,"bigmed, large, med, tiny",67.07
+2002,C20H36O10,4,"bigmed, large, med, tiny",69.795
+1988,C20H35N3O3,4,"bigmed, large, med, tiny",62.895
+1987,C20H34O9,4,"bigmed, large, med, tiny",62.0725
+1979,C20H34O4S,4,"bigmed, large, med, tiny",82.78
+2866,C24H30O5,4,"bigmed, large, large, large",72.0075
+2878,C24H31NO7,4,"bigmed, large, med, tiny",64.1725
+2897,C24H33NO6,4,"bigmed, large, med, tiny",92.14
+4344,C29H39NO5,4,"bigmed, large, med, tiny",65.02250000000001
+4283,C28H56NO8P,4,"bigmed, large, large, med",62.692499999999995
+4245,C28H52O14,4,"bigmed, large, med, tiny",84.595
+4237,C28H52N4O3,4,"bigmed, large, med, tiny",59.56
+4223,C28H51N2O7P,4,"bigmed, large, med, tiny",54.6425
+4220,C28H50O8S,4,"bigmed, large, med, tiny",85.54
+5925,C34H65O13P,4,"bigmed, large, med, tiny",65.515
+4131,C28H45NO7,4,"bigmed, large, med, tiny",60.2175
+4124,C28H44O7S,4,"bigmed, large, med, tiny",78.79
+4083,C28H42N2O3,4,"bigmed, large, med, tiny",72.89500000000001
+4080,C28H41NO9S,4,"bigmed, large, med, tiny",67.575
+4009,C27H59N2O5P,4,"bigmed, large, med, tiny",59.5175
+3975,C27H52O9,4,"bigmed, large, med, tiny",77.17
+3958,C27H51NO7,4,"bigmed, large, med, tiny",81.89750000000001
+3946,C27H50O4,4,"bigmed, large, med, tiny",68.255
+3941,C27H50NO8P,4,"bigmed, large, med, tiny",91.575
+3921,C27H48O7,4,"bigmed, large, med, tiny",75.59
+3884,C27H46O6,4,"large, large, med, tiny",60.08
+3846,C27H44O4,4,"large, large, med, tiny",57.05
+3842,C27H44O,4,"bigmed, large, med, tiny",59.6575
+4300,C28H58O11P2,4,"bigmed, large, med, tiny",87.06
+4405,C29H45O8P,4,"bigmed, large, med, tiny",72.5175
+2929,C24H36O5S,4,"bigmed, large, med, tiny",77.82
+4434,C29H48N7O17P3S,4,"bigmed, large, med, tiny",68.7875
+4724,C30H50NO10P,4,"large, large, med, tiny",77.7525
+4718,C30H49NO8S,4,"bigmed, large, med, tiny",74.2675
+4717,C30H49NO8,4,"bigmed, large, med, tiny",79.36
+4716,C30H49NO7S,4,"bigmed, large, med, tiny",63.0275
+4708,C30H49N3O,4,"bigmed, large, med, tiny",63.8625
+4680,C30H47N3O6,4,"bigmed, large, med, tiny",76.95
+4675,C30H46O3,4,"bigmed, large, med, tiny",68.615
+4638,C30H43NO4,4,"bigmed, large, med, tiny",71.6375
+4623,C30H40N2O,4,"bigmed, large, med, tiny",66.5975
+4609,C30H27O13,4,"bigmed, large, med, tiny",69.3225
+4601,C2H5O5P,4,"bigmed, large, med, tiny",86.32249999999999
+4581,C29H58NO6P,4,"bigmed, large, med, tiny",67.715
+4532,C29H54NO9P,4,"bigmed, large, med, tiny",84.765
+4531,C29H54NO8P,4,"bigmed, large, med, tiny",62.0225
+4511,C29H52O8S,4,"bigmed, large, med, tiny",55.4625
+4510,C29H52O8,4,"bigmed, large, med, tiny",75.4825
+4495,C29H52N4O3,4,"bigmed, large, med, tiny",76.8275
+4492,C29H51O9P,4,"large, large, med, tiny",71.75
+4462,C29H50NO13P,4,"bigmed, large, large, med",72.9525
+3841,C27H44NO7P,4,"bigmed, large, med, tiny",82.75
+3800,C27H41NO5,4,"bigmed, large, med, tiny",84.91
+3716,C27H34F2O7,4,"bigmed, large, med, tiny",64.19749999999999
+3691,C26H54O12P2,4,"bigmed, large, med, tiny",59.802499999999995
+3214,C25H38N2O3,4,"bigmed, large, med, tiny",63.7575
+3201,C25H36O4S,4,"bigmed, large, med, tiny",66.1975
+3200,C25H36O4,4,"bigmed, large, med, tiny",69.0075
+3184,C25H34O6,4,"bigmed, large, med, tiny",60.582499999999996
+3181,C25H34O4,4,"bigmed, large, med, tiny",74.1775
+3151,C25H30O4,4,"bigmed, large, med, tiny",78.72749999999999
+3145,C25H30NO3,4,"bigmed, large, med, tiny",90.00999999999999
+3091,C24H47N2O6P,4,"bigmed, large, med, tiny",68.155
+3089,C24H46O4,4,"bigmed, large, med, tiny",81.6375
+3075,C24H45O10P,4,"bigmed, large, med, tiny",65.65
+3073,C24H45NO6,4,"bigmed, large, med, tiny",62.07
+3065,C24H44O9,4,"bigmed, large, med, tiny",70.185
+3061,C24H44O3,4,"bigmed, large, med, tiny",68.8325
+3060,C24H44O2,4,"bigmed, large, med, tiny",62.4275
+3037,C24H43N3O3,4,"bigmed, large, med, tiny",68.4375
+3032,C24H42O6S,4,"bigmed, large, med, tiny",84.445
+2985,C24H40O4,4,"bigmed, large, med, tiny",81.335
+2970,C24H40N2O3,4,"bigmed, large, med, tiny",76.255
+2953,C24H38O6,4,"bigmed, large, med, tiny",65.41749999999999
+3228,C25H39NO3S,4,"bigmed, large, large, tiny",58.6575
+3256,C25H41N3O,4,"bigmed, large, med, tiny",55.87
+3285,C25H43N8O17P3S,4,"bigmed, large, med, tiny",63.7075
+3462,C26H36O4,4,"bigmed, large, med, tiny",83.09
+3685,C26H53NO4S,4,"bigmed, large, med, tiny",57.925
+3634,C26H48O10,4,"bigmed, large, med, tiny",75.53
+3628,C26H48N4O3,4,"bigmed, large, med, tiny",77.4975
+3615,C26H46O7S,4,"bigmed, large, med, tiny",86.3025
+3593,C26H45NO9,4,"bigmed, large, med, tiny",67.8425
+3539,C26H42O4,4,"bigmed, large, med, tiny",70.7025
+3510,C26H40O6S,4,"bigmed, large, med, tiny",79.2075
+3475,C26H38N2O3,4,"bigmed, large, med, tiny",71.0925
+3417,C26H29NO,4,"bigmed, large, med, tiny",73.045
+3291,C25H43NO5,4,"bigmed, large, med, tiny",74.4325
+3404,C25H55N2O5P,4,"bigmed, large, med, tiny",72.27250000000001
+3379,C25H49O6P,4,"bigmed, large, med, tiny",78.9825
+3370,C25H49N2O7P,4,"bigmed, large, med, tiny",90.185
+3349,C25H47NO6,4,"bigmed, large, med, tiny",79.29249999999999
+3347,C25H47NO4,4,"bigmed, large, med, tiny",71.8775
+3341,C25H46O5,4,"large, large, med, tiny",61.5325
+3339,C25H46O3,4,"bigmed, large, med, tiny",67.95
+3332,C25H46NO7P,4,"bigmed, large, med, tiny",92.8075
+4140,C28H46NO12P,4,"bigmed, large, med, tiny",73.5075
+6744,C37H72NO6P,4,"bigmed, large, med, tiny",65.3575
+5935,C34H66O3,4,"bigmed, large, med, tiny",75.015
+12431,C59H84O6,4,"bigmed, large, med, tiny",62.665
+12414,C59H115O11P,4,"bigmed, large, med, tiny",61.2975
+12236,C58H114O13S,4,"bigmed, large, med, tiny",65.61500000000001
+12213,C58H111O13P,4,"bigmed, large, med, tiny",69.11
+12202,C58H111NO10,4,"bigmed, large, med, tiny",51.6125
+12183,C58H109NO12S,4,"bigmed, large, med, tiny",75.7675
+12179,C58H108O15,4,"bigmed, large, med, tiny",67.8125
+12024,C57H84O11,4,"bigmed, large, med, tiny",89.07249999999999
+11935,C57H103NO10,4,"bigmed, large, med, tiny",54.28
+11865,C56H93NO7,4,"bigmed, large, med, tiny",63.14
+11827,C56H86NO9P,4,"bigmed, large, med, tiny",54.685
+11813,C56H113O7P,4,"bigmed, large, large, med",54.6025
+11811,C56H113NO3,4,"bigmed, large, med, tiny",58.2025
+11788,C56H109O10P,4,"bigmed, large, med, tiny",53.1
+11774,C56H108O10,4,"bigmed, large, med, tiny",59.275000000000006
+11762,C56H107NO19,4,"bigmed, large, med, tiny",57.715
+11761,C56H107NO18,4,"bigmed, large, med, tiny",81.11
+11744,C56H104O10,4,"bigmed, large, med, tiny",55.1625
+11640,C55H93NO5,4,"bigmed, large, med, tiny",61.1825
+11622,C55H90O4,4,"bigmed, large, med, tiny",58.025
+12416,C59H115O13P,4,"bigmed, large, med, tiny",58.56
+12482,C59H97N2O6P,4,"bigmed, large, med, tiny",55.1375
+11548,C55H110O2,4,"bigmed, large, med, tiny",61.537499999999994
+12501,C5H11NO2,4,"bigmed, large, med, tiny",96.81
+12910,C62H112NO10P,4,"bigmed, large, med, tiny",79.945
+12904,C62H111NO10,4,"bigmed, large, med, tiny",60.707499999999996
+12893,C62H109O10P,4,"bigmed, large, med, tiny",78.9875
+12890,C62H108O15,4,"bigmed, large, med, tiny",60.4675
+12862,C62H102O6,4,"bigmed, large, large, med",55.48
+12813,C61H123NO4,4,"bigmed, large, med, tiny",56.2425
+12779,C61H115O10P,4,"bigmed, large, med, tiny",71.805
+12763,C61H112O13S,4,"bigmed, large, med, tiny",61.707499999999996
+12751,C61H110O15,4,"bigmed, large, med, tiny",88.6675
+12628,C60H114NO10P,4,"bigmed, large, med, tiny",79.2125
+12597,C60H109O13P,4,"bigmed, large, med, tiny",65.6775
+12581,C60H108NO11P,4,"bigmed, large, med, tiny",57.66
+12580,C60H108NO10P,4,"bigmed, large, med, tiny",64.64500000000001
+12574,C60H107NO12S,4,"bigmed, large, med, tiny",84.2825
+12569,C60H106O15,4,"bigmed, large, med, tiny",75.35
+12568,C60H106O14,4,"bigmed, large, med, tiny",60.667500000000004
+12515,C5H5N5,4,"bigmed, large, med, tiny",93.96
+12512,C5H4N4,4,"bigmed, large, med, tiny",99.2975
+12504,C5H11NO4,4,"bigmed, large, med, tiny",75.83
+11613,C55H89NO7,4,"bigmed, large, med, tiny",57.8875
+11533,C55H108O10,4,"bigmed, large, med, tiny",54.4225
+5959,C34H69NO3,4,"bigmed, large, med, tiny",72.9725
+10572,C51H83O9P,4,"bigmed, large, med, tiny",56.5225
+10546,C51H81O9P,4,"large, large, med, tiny",59.1
+10496,C51H74O4,4,"large, large, med, tiny",66.24
+10365,C50H90NO9P,4,"bigmed, large, med, tiny",58.06
+10326,C50H86NO12P,4,"bigmed, large, med, tiny",61.4
+10290,C50H82O4,4,"large, large, large, tiny",62.419999999999995
+10260,C50H79O9P,4,"bigmed, large, med, tiny",58.1325
+10214,C50H72O4,4,"bigmed, large, med, tiny",58.6075
+10188,C4H8N2O,4,"bigmed, large, med, tiny",99.2025
+10186,C4H7NS2,4,"bigmed, large, med, tiny",66.6625
+10182,C4H6O4,4,"bigmed, large, large, med",80.5975
+10180,C4H6O2S2,4,"bigmed, large, med, tiny",65.31
+10140,C49H95O9P,4,"bigmed, large, large, tiny",54.4875
+10136,C49H95O10P,4,"bigmed, large, med, tiny",61.325
+10118,C49H93O9P,4,"bigmed, large, med, tiny",54.57
+10117,C49H93O7P,4,"bigmed, large, med, tiny",69.6825
+10095,C49H91O11P,4,"bigmed, large, med, tiny",66.485
+10086,C49H90O10,4,"bigmed, large, large, med",58.457499999999996
+10060,C49H87O8P,4,"bigmed, large, large, tiny",53.879999999999995
+10022,C49H85NO12S,4,"bigmed, large, med, tiny",55.035
+10551,C51H82NO9P,4,"bigmed, large, med, tiny",60.7375
+10585,C51H85NO6,4,"bigmed, large, med, tiny",63.465
+11521,C55H107NO4,4,"bigmed, large, med, tiny",55.75
+10609,C51H87NO5,4,"bigmed, large, med, tiny",59.0
+11421,C54H97NO11S,4,"bigmed, large, med, tiny",71.41
+11409,C54H95NO7,4,"bigmed, large, med, tiny",68.1375
+11362,C54H89NO6S,4,"bigmed, large, med, tiny",65.475
+11352,C54H87NO6,4,"bigmed, large, med, tiny",55.2625
+11328,C54H84O11,4,"bigmed, large, med, tiny",90.5475
+11134,C53H89O15P,4,"bigmed, large, med, tiny",54.7625
+11113,C53H88NO11P,4,"bigmed, large, med, tiny",61.5875
+11102,C53H86O14,4,"bigmed, large, med, tiny",60.347500000000004
+11076,C53H82O5,4,"bigmed, large, med, tiny",63.285
+11071,C53H82O12S,4,"bigmed, large, med, tiny",64.295
+11070,C53H82O11,4,"bigmed, large, med, tiny",56.5025
+11059,C53H81NO10,4,"bigmed, large, med, tiny",65.595
+10919,C52H93NO11S,4,"bigmed, large, med, tiny",83.3675
+10914,C52H92O14,4,"bigmed, large, med, tiny",67.295
+10856,C52H86O11,4,"bigmed, large, med, tiny",76.89
+10793,C52H78O10,4,"bigmed, large, med, tiny",61.5
+10732,C51H99O7P,4,"bigmed, large, med, tiny",61.0575
+10714,C51H98NO8P,4,"bigmed, large, med, tiny",57.332499999999996
+10654,C51H91N2O7P,4,"bigmed, large, med, tiny",76.635
+12911,C62H112NO11P,4,"bigmed, large, med, tiny",84.17
+12921,C62H113O11P,4,"bigmed, large, med, tiny",58.870000000000005
+12964,C62H120O16P2,4,"bigmed, large, med, tiny",72.2125
+14959,C7H14O5,4,"bigmed, large, med, tiny",77.4425
+14748,C76H129NO9,4,"bigmed, large, large, tiny",62.295
+14747,C76H129NO18,4,"bigmed, large, med, tiny",66.525
+14693,C75H128O16P2,4,"bigmed, large, med, tiny",69.625
+14614,C74H131NO9,4,"bigmed, large, large, tiny",61.3525
+14613,C74H131NO18,4,"bigmed, large, med, tiny",60.105
+14518,C73H132O16P2,4,"bigmed, large, med, tiny",64.13
+14510,C73H130O16P2,4,"bigmed, large, med, tiny",78.13
+14473,C73H121O9P,4,"bigmed, large, med, tiny",57.6125
+14459,C73H118O11,4,"bigmed, large, med, tiny",78.7775
+14451,C73H106O6,4,"bigmed, large, med, tiny",56.144999999999996
+14297,C71H131NO5,4,"bigmed, large, med, tiny",67.8675
+14251,C71H118O14,4,"bigmed, large, med, tiny",72.205
+14242,C71H116O14,4,"bigmed, large, med, tiny",70.82000000000001
+14129,C70H114NO11P,4,"bigmed, large, med, tiny",66.63
+14125,C70H112O14,4,"bigmed, large, med, tiny",74.1525
+14084,C6H5ClO3,4,"bigmed, large, med, tiny",54.07
+14061,C6H14S,4,"bigmed, large, med, tiny",75.8275
+14025,C6H11NO,4,"bigmed, large, med, tiny",86.0125
+13974,C69H130O14,4,"bigmed, large, med, tiny",63.885
+14955,C7H14O,4,"bigmed, large, med, tiny",80.06
+14968,C7H16N4O,4,"bigmed, large, med, tiny",85.8175
+13018,C63H102O15,4,"bigmed, large, med, tiny",69.72749999999999
+15089,C8H10O5S,4,"bigmed, large, med, tiny",75.4
+15339,C9H7N,4,"bigmed, large, med, tiny",84.6975
+15321,C9H19NO4,4,"bigmed, large, med, tiny",64.655
+15318,C9H19NO,4,"bigmed, large, med, tiny",99.6925
+15307,C9H18N6,4,"bigmed, large, med, tiny",75.45
+15306,C9H18N4O3,4,"bigmed, large, med, tiny",82.03
+15295,C9H17NO3,4,"large, med, tiny, tiny",74.3
+15288,C9H17N3O4,4,"large, med, med, tiny",71.9875
+15284,C9H16O4,4,"bigmed, large, med, tiny",75.14
+15276,C9H16N3O2,4,"bigmed, large, med, tiny",75.4125
+15272,C9H16N2O4,4,"bigmed, large, med, tiny",65.53
+15265,C9H15NO2,4,"bigmed, large, med, tiny",79.3825
+15247,C9H13NO7,4,"bigmed, large, med, tiny",73.2875
+15242,C9H13N3O4,4,"bigmed, large, med, tiny",71.925
+15220,C9H11N3O,4,"bigmed, large, med, tiny",84.82
+15171,C8H19N,4,"bigmed, large, med, tiny",88.5175
+15170,C8H18O5,4,"bigmed, large, med, tiny",95.96000000000001
+15147,C8H16O4,4,"large, large, med, tiny",76.825
+15139,C8H16,4,"bigmed, large, med, tiny",86.4575
+15113,C8H14,4,"bigmed, large, med, tiny",87.5925
+13915,C69H117NO7,4,"bigmed, large, med, tiny",80.255
+13906,C69H114O15,4,"bigmed, large, med, tiny",60.5075
+13885,C69H107NO8,4,"bigmed, large, med, tiny",74.705
+13884,C69H107NO7,4,"bigmed, large, med, tiny",71.8425
+13302,C64H125NO10,4,"bigmed, large, med, tiny",74.755
+13235,C64H113O8P,4,"bigmed, large, med, tiny",60.7275
+13230,C64H112O10,4,"bigmed, large, med, tiny",53.9275
+13227,C64H111O11P,4,"bigmed, large, med, tiny",61.5
+13216,C64H110O10,4,"bigmed, large, med, tiny",62.050000000000004
+13214,C64H110NO8P,4,"bigmed, large, med, tiny",78.58500000000001
+13213,C64H110NO11P,4,"bigmed, large, med, tiny",75.9225
+13212,C64H110NO10P,4,"bigmed, large, med, tiny",73.18
+13204,C64H107O9P,4,"bigmed, large, large, med",78.69749999999999
+13203,C64H107O8P,4,"bigmed, large, med, tiny",78.3325
+13202,C64H107O10P,4,"bigmed, large, med, tiny",76.83500000000001
+13194,C64H106O12S,4,"bigmed, large, med, tiny",67.61
+13091,C63H113O9P,4,"bigmed, large, med, tiny",59.45
+13090,C63H113O8P,4,"bigmed, large, med, tiny",53.425
+13088,C63H113O10P,4,"bigmed, large, med, tiny",68.465
+13078,C63H112O12S,4,"bigmed, large, med, tiny",72.16
+13069,C63H111NO10,4,"bigmed, large, med, tiny",66.8025
+13034,C63H106NO11P,4,"bigmed, large, med, tiny",61.6275
+13033,C63H106NO10P,4,"bigmed, large, med, tiny",64.265
+13350,C65H105NO9,4,"bigmed, large, med, tiny",69.7075
+13352,C65H106O10,4,"bigmed, large, med, tiny",68.0175
+13366,C65H109NO10,4,"bigmed, large, med, tiny",68.6575
+13636,C67H107NO10,4,"bigmed, large, med, tiny",59.307500000000005
+13854,C68H130O9,4,"bigmed, large, med, tiny",58.58
+13835,C68H128NO8P,4,"bigmed, large, med, tiny",65.7075
+13834,C68H128N2O22,4,"bigmed, large, med, tiny",80.5875
+13831,C68H127O10P,4,"bigmed, large, med, tiny",52.1875
+13750,C68H106O12,4,"bigmed, large, med, tiny",75.07
+13749,C68H106O11,4,"bigmed, large, med, tiny",79.98
+13709,C67H125O8P,4,"bigmed, large, large, med",73.725
+13642,C67H109NO7,4,"bigmed, large, med, tiny",75.26
+13625,C67H103NO9,4,"bigmed, large, med, tiny",65.7125
+13373,C65H110O12S,4,"bigmed, large, med, tiny",75.945
+13624,C67H103NO8,4,"bigmed, large, med, tiny",59.4225
+13623,C67H103NO7,4,"bigmed, large, med, tiny",55.8875
+13571,C66H123NO10,4,"bigmed, large, large, med",64.7875
+13520,C66H111O8P,4,"bigmed, large, med, tiny",66.885
+13506,C66H108O12,4,"bigmed, large, med, tiny",68.13
+13505,C66H108O11,4,"bigmed, large, med, tiny",70.00999999999999
+13504,C66H108O10,4,"bigmed, large, med, tiny",77.295
+13378,C65H111O10P,4,"bigmed, large, med, tiny",57.4975
+9999,C49H83NO7,4,"bigmed, large, med, tiny",65.725
+9955,C49H78O9,4,"bigmed, large, med, tiny",54.425
+9931,C49H75O10P,4,"bigmed, large, med, tiny",71.7225
+7230,C39H74NO7P,4,"bigmed, large, med, tiny",67.02
+7189,C39H71N2O6P,4,"bigmed, large, large, tiny",60.9625
+7157,C39H68NO6P,4,"bigmed, large, med, tiny",61.975
+7137,C39H66O5,4,"bigmed, large, med, tiny",80.35
+7114,C39H65NO6,4,"bigmed, large, med, tiny",72.035
+7113,C39H65NO5,4,"bigmed, large, med, tiny",65.7875
+7110,C39H65NO10,4,"bigmed, large, med, tiny",68.68
+7101,C39H64NO6P,4,"bigmed, large, med, tiny",88.52
+7088,C39H62O6,4,"bigmed, large, med, tiny",73.545
+7087,C39H62O5,4,"bigmed, large, med, tiny",68.7825
+7048,C39H57O15P,4,"large, large, med, tiny",57.56
+7041,C39H54O4,4,"bigmed, large, med, tiny",65.745
+7018,C38H75O10P,4,"bigmed, large, med, tiny",63.010000000000005
+7010,C38H75N2O7P,4,"bigmed, large, med, tiny",72.31
+6996,C38H73NO8,4,"large, large, large, med",58.269999999999996
+6977,C38H72NO7P,4,"bigmed, large, med, tiny",71.83500000000001
+6948,C38H70O13S,4,"bigmed, large, med, tiny",84.745
+6886,C38H65NO7,4,"bigmed, large, med, tiny",56.4375
+6885,C38H65NO6S,4,"bigmed, large, med, tiny",71.665
+6829,C38H60O4,4,"bigmed, large, med, tiny",63.417500000000004
+7196,C39H71NO7,4,"bigmed, large, med, tiny",60.465
+7232,C39H74O10,4,"bigmed, large, med, tiny",66.6375
+7654,C41H68NO7P,4,"bigmed, large, med, tiny",82.2575
+7255,C39H75O9P,4,"bigmed, large, med, tiny",65.41
+7621,C41H65NO10,4,"bigmed, large, med, tiny",61.675
+7603,C41H63NO10,4,"bigmed, large, med, tiny",72.4075
+7586,C41H58O5,4,"bigmed, large, med, tiny",59.345
+7570,C40H80NO9P,4,"large, large, med, tiny",59.7125
+7544,C40H77O9P,4,"large, large, med, tiny",58.815
+7543,C40H77O13P,4,"bigmed, large, large, med",57.475
+7521,C40H76NO8P,4,"bigmed, large, med, tiny",60.375
+7514,C40H75O7P,4,"large, large, med, tiny",63.2525
+7512,C40H75O14P,4,"bigmed, large, med, tiny",60.129999999999995
+7433,C40H69O8P,4,"bigmed, large, med, tiny",64.1325
+7429,C40H69NO7,4,"bigmed, large, med, tiny",61.825
+7428,C40H69NO6S,4,"bigmed, large, med, tiny",63.8575
+7418,C40H68O9,4,"bigmed, large, med, tiny",66.235
+7365,C40H63NO7,4,"bigmed, large, med, tiny",59.465
+7314,C3H7ClO2,4,"bigmed, large, med, tiny",54.66
+7312,C3H5O7P,4,"bigmed, large, med, tiny",79.9975
+7263,C39H76O12S,4,"bigmed, large, med, tiny",59.9025
+7262,C39H76O10,4,"bigmed, large, med, tiny",62.2675
+7261,C39H76NO9P,4,"bigmed, large, med, tiny",73.8175
+6752,C37H73N2O7P,4,"bigmed, large, large, med",60.62
+1573,C18H39NO2,4,"bigmed, large, med, tiny",96.375
+6729,C37H71NO5,4,"bigmed, large, med, tiny",75.38499999999999
+6714,C37H70NO6P,4,"bigmed, large, med, tiny",62.0925
+6291,C36H56NO8P,4,"large, large, med, tiny",71.535
+6265,C36H52O4,4,"bigmed, large, med, tiny",67.325
+6257,C36H49NO6,4,"bigmed, large, med, tiny",73.845
+6255,C36H49NO11,4,"bigmed, large, med, tiny",54.817499999999995
+6238,C35H71NO3,4,"bigmed, large, med, tiny",64.33500000000001
+6220,C35H69NO3,4,"bigmed, large, med, tiny",65.3875
+6206,C35H67O8P,4,"bigmed, large, large, med",66.61500000000001
+6127,C35H61NO4,4,"bigmed, large, med, tiny",73.9175
+6097,C35H59NO11,4,"bigmed, large, med, tiny",62.2725
+6070,C35H57NO4,4,"bigmed, large, med, tiny",65.755
+6069,C35H57NO3,4,"bigmed, large, med, tiny",61.182500000000005
+6065,C35H57NO10,4,"bigmed, large, med, tiny",67.2675
+6032,C35H54O13,4,"bigmed, large, med, tiny",71.7625
+6030,C35H54O10,4,"bigmed, large, med, tiny",76.5325
+6025,C35H53O8P,4,"bigmed, large, med, tiny",69.725
+6013,C35H52O5,4,"bigmed, large, med, tiny",90.8925
+5988,C35H48O9,4,"bigmed, large, med, tiny",73.9675
+5986,C35H48O14,4,"bigmed, large, med, tiny",66.5825
+5961,C34H69NO5,4,"bigmed, large, med, tiny",59.0375
+6362,C36H61O8P,4,"bigmed, large, med, tiny",63.412499999999994
+6364,C36H62N2O,4,"bigmed, large, med, tiny",69.2975
+6418,C36H66N4O4,4,"large, large, large, large",60.4975
+6564,C37H58O11,4,"bigmed, large, med, tiny",80.3825
+6709,C37H69O14P,4,"bigmed, large, large, tiny",57.3925
+6685,C37H68NO6P,4,"bigmed, large, large, tiny",60.6125
+6677,C37H67NO6,4,"bigmed, large, med, tiny",57.3575
+6636,C37H64NO10P,4,"bigmed, large, med, tiny",75.2125
+6599,C37H61NO5,4,"bigmed, large, med, tiny",69.64750000000001
+6595,C37H61NO11,4,"bigmed, large, med, tiny",70.955
+6584,C37H60NO13P,4,"bigmed, large, med, tiny",64.285
+6565,C37H58O11P2,4,"bigmed, large, med, tiny",76.1275
+6559,C37H57O8P,4,"bigmed, large, med, tiny",61.605
+6426,C36H66O12S,4,"bigmed, large, med, tiny",84.2725
+6550,C37H56O5,4,"bigmed, large, med, tiny",77.4
+6547,C37H56O13S,4,"bigmed, large, med, tiny",69.6375
+6518,C37H51NO8,4,"bigmed, large, med, tiny",62.045
+6514,C37H50N2O,4,"bigmed, large, med, tiny",57.1175
+6480,C36H71N2O6P,4,"bigmed, large, med, tiny",73.4625
+6463,C36H69NO6,4,"bigmed, large, large, tiny",61.745
+6459,C36H69NO12S,4,"bigmed, large, med, tiny",79.7575
+6448,C36H68NO6P,4,"bigmed, large, med, tiny",70.2825
+7632,C41H66NO8P,4,"bigmed, large, med, tiny",56.115
+7668,C41H69NO7,4,"bigmed, large, med, tiny",76.055
+9923,C49H74O12,4,"bigmed, large, med, tiny",52.692499999999995
+9453,C47H80O10,4,"bigmed, large, large, tiny",56.5475
+9407,C47H76O12,4,"bigmed, large, med, tiny",57.43
+9370,C47H73NO6,4,"bigmed, large, med, tiny",72.17
+9365,C47H72O6,4,"bigmed, large, med, tiny",64.0475
+9346,C47H70O4,4,"large, large, med, tiny",71.0825
+9338,C47H69O10P,4,"large, large, med, tiny",58.44
+9281,C46H88NO11P,4,"bigmed, large, med, tiny",56.7175
+9279,C46H87O8P,4,"bigmed, large, med, tiny",65.32
+9174,C46H79NO9,4,"bigmed, large, med, tiny",70.57
+9171,C46H79NO7,4,"bigmed, large, med, tiny",75.015
+9165,C46H79NO10,4,"bigmed, large, med, tiny",75.9975
+9139,C46H76O9,4,"bigmed, large, med, tiny",70.24
+9133,C46H76NO9P,4,"bigmed, large, med, tiny",69.79249999999999
+9124,C46H75NO7S,4,"bigmed, large, med, tiny",87.4325
+9085,C46H71NO8,4,"bigmed, large, med, tiny",65.34
+9084,C46H71NO6,4,"bigmed, large, med, tiny",73.9575
+8999,C45H86O6,4,"large, large, med, tiny",54.832499999999996
+8987,C45H85O7P,4,"bigmed, large, large, med",58.835
+8967,C45H84O15P2,4,"large, large, med, tiny",65.08
+8947,C45H83NO3,4,"bigmed, large, large, tiny",53.0425
+9436,C47H79NO5,4,"bigmed, large, med, tiny",66.8125
+9470,C47H81NO7S,4,"bigmed, large, med, tiny",61.3625
+7671,C41H69O11P,4,"bigmed, large, med, tiny",58.815
+9523,C47H84O6,4,"bigmed, large, med, tiny",57.52
+9838,C48H91NO11S,4,"bigmed, large, med, tiny",54.045
+9772,C48H85NO11S,4,"bigmed, large, med, tiny",73.8225
+9760,C48H84NO8P,4,"large, large, med, tiny",56.435
+9714,C48H80O10,4,"bigmed, large, large, large",68.4
+9689,C48H78NO8P,4,"bigmed, large, med, tiny",73.1325
+9678,C48H77NO5,4,"bigmed, large, med, tiny",64.68
+9677,C48H77NO10,4,"bigmed, large, med, tiny",66.45
+9670,C48H76NO8P,4,"bigmed, large, med, tiny",53.5625
+9663,C48H75NO7S,4,"bigmed, large, med, tiny",72.35
+9654,C48H74O4,4,"bigmed, large, med, tiny",66.04
+9651,C48H74O10,4,"bigmed, large, med, tiny",67.4875
+9646,C48H73O9P,4,"bigmed, large, med, tiny",65.58
+9633,C48H72NO9P,4,"bigmed, large, med, tiny",63.8425
+9629,C48H71O10P,4,"large, large, med, tiny",55.3275
+9626,C48H70O12,4,"bigmed, large, med, tiny",58.79
+9616,C47H95N2O8P,4,"bigmed, large, med, tiny",57.9525
+9601,C47H92NO9P,4,"bigmed, large, med, tiny",56.235
+9594,C47H91O14P,4,"large, large, med, tiny",68.6975
+9582,C47H90O14,4,"bigmed, large, med, tiny",65.435
+8945,C45H83NO10,4,"bigmed, large, med, tiny",54.7325
+8879,C45H78O14,4,"bigmed, large, med, tiny",61.1675
+8857,C45H77NO13,4,"bigmed, large, med, tiny",66.2525
+8853,C45H77N2O6P,4,"bigmed, large, med, tiny",81.7025
+8082,C42H81NO13S,4,"bigmed, large, med, tiny",66.425
+8063,C42H79NO9,4,"bigmed, large, med, tiny",61.114999999999995
+8037,C42H78NO10P,4,"bigmed, large, med, tiny",55.912499999999994
+8030,C42H77NO3,4,"bigmed, large, med, tiny",54.555
+7997,C42H75NO12S,4,"bigmed, large, med, tiny",55.74
+7978,C42H73O7P,4,"bigmed, large, med, tiny",63.735
+7971,C42H73NO6S,4,"bigmed, large, med, tiny",61.4625
+7959,C42H72O12,4,"bigmed, large, med, tiny",79.86500000000001
+7946,C42H71NO7,4,"bigmed, large, med, tiny",74.3125
+7916,C42H69NO3,4,"bigmed, large, large, med",59.1875
+7899,C42H67NO7,4,"bigmed, large, med, tiny",64.285
+7878,C42H63O16P,4,"bigmed, large, med, tiny",57.792500000000004
+7859,C41H83NO3,4,"large, large, med, tiny",71.74
+7829,C41H80NO8P,4,"bigmed, large, med, tiny",53.2775
+7822,C41H79O7P,4,"bigmed, large, med, tiny",76.83250000000001
+7756,C41H75NO8,4,"bigmed, large, med, tiny",66.795
+7751,C41H75NO14,4,"bigmed, large, med, tiny",56.697500000000005
+7712,C41H72NO7P,4,"bigmed, large, med, tiny",73.4675
+7694,C41H71N2O6P,4,"bigmed, large, med, tiny",74.72749999999999
+8089,C42H81NO9,4,"bigmed, large, med, tiny",61.4025
+8110,C42H83NO4,4,"large, large, large, med",58.0225
+8184,C43H68O4,4,"bigmed, large, med, tiny",64.1575
+8545,C44H76NO7P,4,"large, large, large, large",60.22
+8829,C45H75N2O7P,4,"bigmed, large, med, tiny",68.1275
+8773,C45H68O12,4,"bigmed, large, med, tiny",67.74
+8766,C45H67O8P,4,"large, large, med, tiny",77.265
+8748,C45H60O4,4,"bigmed, large, med, tiny",55.0025
+8706,C44H86NO10P,4,"bigmed, large, med, tiny",69.88250000000001
+8615,C44H80NO14P,4,"bigmed, large, med, tiny",61.99
+8566,C44H77NO7S,4,"bigmed, large, med, tiny",78.9625
+8548,C44H76O10,4,"bigmed, large, med, tiny",61.7325
+8527,C44H74O9,4,"bigmed, large, med, tiny",76.18
+8203,C43H70O14,4,"bigmed, large, med, tiny",66.2275
+8524,C44H74O2,4,"bigmed, large, med, tiny",53.8975
+8488,C44H72NO9P,4,"bigmed, large, med, tiny",66.4575
+8425,C44H55CoN4O16,4,"bigmed, large, med, tiny",56.81
+8395,C43H84O9,4,"large, large, med, tiny",58.505
+8383,C43H83O11P,4,"bigmed, large, med, tiny",53.7375
+8256,C43H75N2O6P,4,"bigmed, large, med, tiny",90.9375
+8249,C43H74O13S,4,"bigmed, large, med, tiny",59.245
+8211,C43H71NO8,4,"large, large, med, tiny",55.5925
+1574,C18H39NO3,4,"bigmed, large, med, tiny",89.6375
+6493,C36H72,4,"bigmed, large, med, tiny",93.8
+1572,C18H39NO,4,"bigmed, large, med, tiny",97.78
+176,C11H15NO,4,"bigmed, large, med, tiny",95.9175
+1530,C18H34O,4,"bigmed, large, med, tiny",91.66
+1161,C16H33NO2,4,"bigmed, large, med, tiny",73.5375
+673,C14H22N2O3,4,"bigmed, large, med, tiny",73.1025
+1523,C18H33NO3S,4,"bigmed, large, med, tiny",75.4975
+1157,C16H32O3,4,"bigmed, large, med, tiny",96.35
+1154,C16H32NO9P,4,"bigmed, large, med, tiny",65.11749999999999
+169,C11H15N3O2,4,"bigmed, large, med, tiny",80.42
+1514,C18H32O2,4,"large, large, med, tiny",75.3925
+1142,C16H31NO4S,4,"bigmed, large, med, tiny",62.2575
+1141,C16H31NO4,4,"bigmed, large, med, tiny",75.785
+1497,C18H30O6S,4,"bigmed, large, med, tiny",70.215
+1316,C17H34N10O5,4,"bigmed, large, med, tiny",95.88250000000001
+297,C12H11N5,4,"bigmed, large, med, tiny",74.235
+62,C10H16O3,4,"large, large, med, tiny",75.675
+1493,C18H30O4,4,"bigmed, large, large, tiny",66.8025
+166,C11H14O5,4,"bigmed, large, med, tiny",81.8475
+299,C12H11O4P,4,"bigmed, large, med, tiny",88.85
+723,C14H26N6O4S,4,"bigmed, large, med, tiny",63.517500000000005
+300,C12H12N2O2,4,"bigmed, large, med, tiny",90.28
+1531,C18H34O2,4,"bigmed, large, med, tiny",65.58
+1533,C18H34O4,4,"bigmed, large, med, tiny",77.61500000000001
+1483,C18H29NO5,4,"bigmed, large, med, tiny",67.0725
+181,C11H16N2O5,4,"bigmed, large, large, tiny",70.4625
+1295,C17H32O,4,"bigmed, large, med, tiny",90.5325
+594,C13H26O2,4,"bigmed, large, med, tiny",66.785
+43,C10H15N5,4,"bigmed, large, med, tiny",65.8675
+601,C13H29N,4,"bigmed, large, med, tiny",94.4975
+1551,C18H36O3,4,"bigmed, large, med, tiny",89.6375
+1217,C17H22O4,4,"large, large, med, tiny",62.115
+1216,C17H22O3,4,"bigmed, large, med, tiny",65.0325
+1550,C18H36O2,4,"bigmed, large, med, tiny",96.3775
+1549,C18H36O,4,"bigmed, large, med, tiny",97.3575
+1547,C18H36NO8P,4,"bigmed, large, med, tiny",74.195
+615,C14H12O3S,4,"bigmed, large, med, tiny",67.9075
+521,C13H20O2,4,"bigmed, large, med, tiny",71.4475
+1543,C18H36,4,"bigmed, large, med, tiny",79.76750000000001
+503,C13H18N4O3,4,"bigmed, large, med, tiny",67.655
+654,C14H19NO3,4,"bigmed, large, med, tiny",75.41
+1542,C18H35O7P,4,"bigmed, large, med, tiny",68.675
+182,C11H16N2O8,4,"bigmed, large, med, tiny",76.7175
+1173,C16H35NO3,4,"bigmed, large, med, tiny",96.35
+1170,C16H34O9,4,"bigmed, large, med, tiny",95.5325
+160,C11H14N4O2,4,"bigmed, large, med, tiny",74.60249999999999
+728,C14H26O2,4,"bigmed, large, med, tiny",72.7675
+256,C11H21N5O2,4,"bigmed, large, med, tiny",80.4725
+1340,C17H36O3,4,"bigmed, large, med, tiny",66.4325
+1355,C18H15O4P,4,"bigmed, large, med, tiny",87.42
+126,C10H22O5,4,"bigmed, large, med, tiny",80.595
+1445,C18H26O4S,4,"bigmed, large, med, tiny",60.0925
+1443,C18H26O3,4,"bigmed, large, med, tiny",69.7
+813,C15H18N4O3,4,"bigmed, large, med, tiny",69.2225
+817,C15H18O4,4,"bigmed, large, med, tiny",63.975
+1019,C16H20O2,4,"bigmed, large, med, tiny",69.9125
+828,C15H20O3,4,"bigmed, large, med, tiny",71.2175
+1433,C18H25N5O6,4,"bigmed, large, med, tiny",81.88
+847,C15H21NO5,4,"bigmed, large, med, tiny",70.13499999999999
+857,C15H22O2,4,"bigmed, large, med, tiny",71.925
+977,C15H33N,4,"bigmed, large, med, tiny",84.25
+973,C15H31NO,4,"bigmed, large, med, tiny",95.0025
+865,C15H23N5O3,4,"bigmed, large, med, tiny",60.3425
+1415,C18H24N2O5,4,"bigmed, large, large, tiny",62.3075
+410,C12H22O2,4,"bigmed, large, med, tiny",84.25
+395,C12H21NO4,4,"bigmed, large, med, tiny",64.2975
+93,C10H18O2,4,"bigmed, large, med, tiny",95.2175
+366,C12H19N5O4,4,"bigmed, large, med, tiny",59.2275
+127,C10H22O6,4,"bigmed, large, med, tiny",87.99
+1044,C16H23N3O5,4,"large, large, med, tiny",72.455
+729,C14H26O3,4,"bigmed, large, med, tiny",86.6175
+134,C10H8O3,4,"bigmed, large, med, tiny",81.555
+730,C14H26O4,4,"bigmed, large, med, tiny",77.4025
+157,C11H14N2O2,4,"bigmed, large, med, tiny",77.35249999999999
+1100,C16H28O5,4,"large, large, med, tiny",64.6625
+1094,C16H28N6O6,4,"bigmed, large, med, tiny",73.1625
+750,C14H28N6O4,4,"bigmed, large, large, med",64.87
+754,C14H28O,4,"bigmed, large, med, tiny",99.87
+460,C12H27O4P,4,"bigmed, large, med, tiny",82.285
+755,C14H28O2,4,"bigmed, large, med, tiny",87.94
+458,C12H26O7,4,"bigmed, large, med, tiny",91.6575
+1071,C16H26N2O3,4,"bigmed, large, med, tiny",66.13250000000001
+770,C14H30O3,4,"bigmed, large, med, tiny",84.7575
+447,C12H24O2,4,"bigmed, large, med, tiny",90.6175
+1329,C17H35N5O4S,4,"bigmed, large, med, tiny",69.845
+771,C14H30O8,4,"bigmed, large, med, tiny",92.1925
+446,C12H24O,4,"bigmed, large, med, tiny",79.72
+772,C14H31N,4,"bigmed, large, med, tiny",98.4425
+1333,C17H35NO,4,"bigmed, large, med, tiny",89.965
+439,C12H24N6O2,4,"bigmed, large, med, tiny",71.8675
+1337,C17H35O9P,4,"bigmed, large, med, tiny",81.79
+209,C11H18N4O2,4,"bigmed, large, med, tiny",82.995
+96,C10H18O5,4,"bigmed, large, med, tiny",82.0425
+1286,C17H31NO8,4,"bigmed, large, med, tiny",65.405
+543,C13H22O3,4,"bigmed, large, med, tiny",88.5625
+245,C11H20N4O7,4,"bigmed, large, med, tiny",58.0525
+1564,C18H38N6O4,4,"bigmed, large, med, tiny",79.145
+566,C13H24O2,4,"bigmed, large, med, tiny",77.245
+567,C13H24O3,4,"bigmed, large, med, tiny",60.227500000000006
+1238,C17H25N3O4,4,"bigmed, large, med, tiny",83.7925
+218,C11H18O3,4,"bigmed, large, med, tiny",75.96000000000001
+1570,C18H39N,4,"bigmed, large, med, tiny",82.6825
+564,C13H24N6O7,4,"bigmed, large, med, tiny",80.8775
+1569,C18H38O10,4,"bigmed, large, med, tiny",97.385
+246,C11H20N6O3,4,"bigmed, large, med, tiny",68.4425
+1264,C17H28N8O4,4,"large, large, med, tiny",60.79
+575,C13H25NO3,4,"bigmed, large, med, tiny",87.0
+235,C11H19NO4,4,"bigmed, large, med, tiny",93.6775
+11086,C53H84O15,3,"bigmed, large, tiny",53.71666666666667
+5388,C32H61O14P,3,"large, med, tiny",68.69666666666667
+1022,C16H20O6,3,"bigmed, med, tiny",60.31666666666666
+11090,C53H85NO5,3,"bigmed, large, tiny",61.14333333333334
+5395,C32H62NO7P,3,"bigmed, med, tiny",61.44333333333333
+5390,C32H61O8P,3,"bigmed, large, large",59.60333333333333
+1026,C16H21N5O2,3,"bigmed, med, tiny",66.01666666666667
+5371,C32H60O14,3,"bigmed, med, tiny",57.169999999999995
+5380,C32H61NO2,3,"bigmed, large, med",61.72666666666667
+5377,C32H60O6,3,"bigmed, large, large",66.91333333333334
+11085,C53H84O13S,3,"bigmed, med, tiny",63.91
+5367,C32H60NO12P,3,"bigmed, med, tiny",67.33666666666666
+336,C12H16O5,3,"large, med, tiny",61.623333333333335
+5348,C32H58O13S,3,"large, med, tiny",80.08333333333333
+11121,C53H88O4,3,"bigmed, med, tiny",54.68666666666667
+11127,C53H89NO5,3,"large, med, tiny",55.39333333333334
+5344,C32H58NO7P,3,"bigmed, med, tiny",73.99666666666667
+5341,C32H58NO11P,3,"bigmed, med, tiny",68.39999999999999
+5334,C32H57O12P,3,"bigmed, med, tiny",72.66333333333334
+11147,C53H91NO9,3,"bigmed, large, tiny",57.473333333333336
+5323,C32H57N2O7P,3,"large, med, tiny",69.87
+5312,C32H56O11,3,"bigmed, med, tiny",63.650000000000006
+5297,C32H55NO4,3,"bigmed, large, tiny",58.54
+5407,C32H63NO11S,3,"bigmed, large, med",52.26666666666667
+11080,C53H83NO8,3,"bigmed, med, tiny",59.126666666666665
+11082,C53H84NO10P,3,"bigmed, med, tiny",55.84
+3852,C27H44O8,3,"large, med, tiny",63.56
+5512,C33H52NO8P,3,"bigmed, large, tiny",60.06
+5500,C33H50O9,3,"bigmed, large, tiny",72.47666666666667
+11024,C53H105NO4,3,"large, med, tiny",51.85333333333333
+11034,C53H107N2O7P,3,"bigmed, large, tiny",65.01333333333334
+11041,C53H76O11,3,"bigmed, med, tiny",65.8
+1014,C16H20N2O3,3,"bigmed, med, tiny",65.90333333333334
+11045,C53H78O12,3,"bigmed, large, tiny",55.330000000000005
+5486,C33H49O13P,3,"bigmed, med, tiny",75.16000000000001
+5483,C33H49NO9,3,"bigmed, large, med",62.96666666666667
+1015,C16H20N2O8,3,"bigmed, med, tiny",68.50666666666666
+1017,C16H20N4O4,3,"bigmed, large, med",64.04666666666667
+343,C12H17NO3,3,"bigmed, large, tiny",76.00333333333333
+5471,C33H47NO7,3,"bigmed, large, tiny",59.14000000000001
+11060,C53H81NO5,3,"large, med, tiny",61.31666666666666
+11081,C53H83O9P,3,"bigmed, med, tiny",66.74333333333333
+12730,C61H108NO10P,3,"bigmed, med, tiny",62.25
+3856,C27H45NO2,3,"bigmed, med, tiny",95.08
+3859,C27H45NO5S,3,"bigmed, med, tiny",70.58333333333333
+5465,C33H46N4O6,3,"bigmed, med, tiny",61.00333333333333
+5457,C33H44O8,3,"large, med, tiny",72.54333333333334
+3863,C27H45NO7S,3,"bigmed, med, tiny",55.85999999999999
+342,C12H17NO,3,"bigmed, med, tiny",87.04333333333334
+340,C12H17N5O5,3,"bigmed, med, tiny",59.160000000000004
+11073,C53H82O14,3,"bigmed, large, tiny",60.65
+3867,C27H45O7P,3,"bigmed, med, tiny",55.46666666666667
+5430,C32H65NO5,3,"bigmed, large, large",61.26333333333334
+3878,C27H46O12,3,"large, med, tiny",80.75
+5419,C32H64N4O3,3,"bigmed, large, med",55.913333333333334
+11202,C53H96O2,3,"bigmed, large, tiny",55.61000000000001
+4176,C28H48O,3,"bigmed, large, med",64.70666666666666
+1268,C17H28O4,3,"bigmed, med, tiny",77.22000000000001
+11007,C53H103NO3,3,"bigmed, med, tiny",54.79
+5156,C31H62N4O3,3,"bigmed, large, med",61.31333333333333
+3939,C27H50NO11P,3,"bigmed, med, tiny",65.79333333333334
+5153,C31H61O8P,3,"large, med, tiny",58.79666666666666
+5148,C31H61O10P,3,"bigmed, large, med",66.29666666666667
+11358,C54H88O6,3,"bigmed, large, tiny",56.86666666666667
+11360,C54H89NO10,3,"bigmed, med, tiny",60.96333333333333
+5138,C31H60O13S,3,"bigmed, med, tiny",59.47
+1266,C17H28O3,3,"bigmed, med, tiny",60.82
+11369,C54H90O14,3,"bigmed, med, tiny",67.19333333333333
+5127,C31H59O10P,3,"bigmed, med, tiny",55.053333333333335
+5126,C31H59NO9,3,"large, med, tiny",85.35333333333334
+1064,C16H24O8,3,"bigmed, med, tiny",79.22333333333334
+5120,C31H59N3O,3,"bigmed, large, tiny",68.89999999999999
+1067,C16H25N5O6,3,"bigmed, med, tiny",65.27666666666666
+11371,C54H90O4,3,"large, med, tiny",58.846666666666664
+11383,C54H91O12P,3,"bigmed, large, med",62.096666666666664
+3944,C27H50O14,3,"bigmed, large, tiny",65.48
+5104,C31H57O12P,3,"bigmed, med, tiny",63.61333333333334
+5099,C31H57NO7,3,"bigmed, med, tiny",95.67
+11405,C54H95NO11S,3,"bigmed, med, tiny",61.06666666666667
+5094,C31H57NO10S,3,"bigmed, med, tiny",70.33666666666666
+11415,C54H96O14,3,"bigmed, med, tiny",56.086666666666666
+12633,C60H114O9,3,"bigmed, med, tiny",54.46
+5089,C31H56O9,3,"large, med, tiny",83.94666666666667
+319,C12H14O,3,"bigmed, med, tiny",85.79
+5081,C31H56O12S,3,"bigmed, med, tiny",64.17666666666666
+11451,C55H100O10,3,"bigmed, med, tiny",58.23333333333333
+5079,C31H56O10,3,"large, med, tiny",70.92666666666666
+1078,C16H26O5,3,"bigmed, med, tiny",85.40666666666668
+3932,C27H49O12P,3,"bigmed, med, tiny",59.666666666666664
+3929,C27H49NO7S,3,"large, med, tiny",52.56333333333333
+3925,C27H49NO3,3,"bigmed, large, med",57.46666666666667
+5235,C32H50O10,3,"bigmed, med, tiny",57.79999999999999
+5287,C32H54O11S,3,"bigmed, med, tiny",62.76333333333333
+5285,C32H54O10,3,"large, med, tiny",70.84666666666668
+11214,C53H97O8P,3,"bigmed, med, tiny",62.06666666666666
+3886,C27H46O7,3,"bigmed, med, tiny",81.03666666666668
+1046,C16H23N5O,3,"bigmed, med, tiny",77.73666666666666
+5275,C32H53O7P,3,"bigmed, large, large",58.87
+1052,C16H24N2O,3,"bigmed, large, med",63.85333333333333
+1057,C16H24NO5,3,"large, med, tiny",79.63000000000001
+3889,C27H46O8S,3,"bigmed, med, tiny",84.21666666666667
+3899,C27H47O11P,3,"bigmed, med, tiny",70.98
+5248,C32H51NO9,3,"large, med, tiny",55.656666666666666
+11246,C54H102NO9P,3,"bigmed, med, tiny",62.81999999999999
+1059,C16H24O3,3,"bigmed, med, tiny",76.10666666666667
+5229,C32H49O12P,3,"large, med, tiny",62.07333333333333
+5164,C31H63NO,3,"bigmed, large, med",71.86
+11274,C54H105NO5,3,"bigmed, large, med",54.31333333333333
+5223,C32H48O8,3,"bigmed, med, tiny",59.20333333333334
+5220,C32H48O11,3,"bigmed, med, tiny",60.48333333333333
+3901,C27H47O8P,3,"large, med, tiny",77.25333333333333
+11291,C54H107NO3,3,"bigmed, med, tiny",55.32
+5196,C32H45NO4,3,"bigmed, med, tiny",60.10999999999999
+5193,C32H44O8,3,"bigmed, med, tiny",70.07333333333332
+5183,C32H42O8,3,"bigmed, med, tiny",54.01666666666667
+11326,C54H83O9P,3,"bigmed, med, tiny",56.98666666666667
+11331,C54H84O15,3,"bigmed, med, tiny",54.35333333333333
+11332,C54H84O5,3,"bigmed, med, tiny",57.826666666666675
+3914,C27H48O14,3,"large, med, tiny",72.89333333333333
+5177,C32H40O8,3,"bigmed, med, tiny",63.453333333333326
+5290,C32H54O2,3,"bigmed, large, med",61.923333333333325
+5523,C33H53NO10,3,"large, med, tiny",78.85333333333334
+5521,C33H52O7,3,"bigmed, med, tiny",91.78333333333335
+10508,C51H78NO11P,3,"large, med, tiny",56.04666666666666
+5945,C34H67O12P,3,"bigmed, med, tiny",53.81
+10519,C51H79NO3,3,"large, med, tiny",54.620000000000005
+942,C15H29N3O5,3,"bigmed, med, tiny",58.97
+5927,C34H66NO10P,3,"bigmed, large, tiny",61.20666666666667
+10535,C51H80O4,3,"bigmed, large, tiny",56.82333333333333
+10541,C51H81NO7,3,"bigmed, med, tiny",56.03666666666666
+947,C15H29N7O6,3,"large, med, tiny",71.5
+3816,C27H42O4,3,"large, large, med",60.300000000000004
+10577,C51H84O13S,3,"bigmed, med, tiny",61.096666666666664
+10578,C51H84O14,3,"bigmed, large, med",53.6
+10580,C51H84O4,3,"bigmed, med, tiny",67.28333333333333
+955,C15H30N4O4,3,"large, med, tiny",93.01333333333332
+3819,C27H42O6,3,"bigmed, large, med",67.32333333333334
+10604,C51H86O9,3,"bigmed, med, tiny",55.593333333333334
+5877,C34H62NO12P,3,"bigmed, med, tiny",59.21
+5867,C34H61NO5,3,"large, med, tiny",59.46333333333333
+10624,C51H88O5,3,"bigmed, med, tiny",56.03666666666667
+10628,C51H89N2O6P,3,"bigmed, large, med",63.56333333333333
+10632,C51H89NO12S,3,"bigmed, med, tiny",63.78
+10634,C51H89NO7,3,"bigmed, med, tiny",54.46333333333333
+3824,C27H43N3O,3,"bigmed, large, med",57.32333333333333
+5850,C34H60NO7P,3,"bigmed, large, tiny",64.00333333333333
+959,C15H30N6O5,3,"bigmed, med, tiny",68.56333333333333
+10658,C51H91NO6S,3,"bigmed, med, tiny",59.36333333333334
+10664,C51H91O18P,3,"bigmed, med, tiny",59.93000000000001
+961,C15H30O,3,"bigmed, med, tiny",71.97666666666667
+5811,C34H57NO10,3,"bigmed, med, tiny",61.89333333333334
+10673,C51H93NO6S,3,"bigmed, med, tiny",63.31333333333333
+5804,C34H56O13,3,"bigmed, med, tiny",54.330000000000005
+5947,C34H68,3,"bigmed, med, tiny",96.73666666666666
+941,C15H29N3O4S2,3,"bigmed, med, tiny",59.88666666666666
+5522,C33H52O9,3,"bigmed, med, tiny",58.01
+10493,C51H74O11,3,"large, med, tiny",60.28333333333333
+6083,C35H58NO10P,3,"bigmed, large, med",57.24666666666667
+6079,C35H57O8P,3,"large, med, tiny",62.05666666666667
+6078,C35H57O7P,3,"large, med, tiny",69.09666666666668
+6077,C35H57O13P,3,"large, med, tiny",55.99
+6074,C35H57NO9,3,"bigmed, med, tiny",71.41666666666667
+10400,C50H93O18P,3,"large, med, tiny",58.30666666666667
+6057,C35H56O15,3,"large, med, tiny",67.19666666666667
+10402,C50H93O8P,3,"bigmed, large, med",56.70666666666667
+10407,C50H94O10,3,"large, med, tiny",60.173333333333325
+6052,C35H56O10,3,"large, med, tiny",59.203333333333326
+6049,C35H56NO13P,3,"bigmed, med, tiny",78.47333333333334
+10408,C50H94O14,3,"large, med, tiny",55.36666666666667
+10409,C50H94O15,3,"large, med, tiny",50.99333333333333
+6023,C35H53O13P,3,"bigmed, med, tiny",65.38333333333334
+10446,C50H97O7P,3,"large, med, tiny",61.43666666666667
+933,C15H28N6O7,3,"bigmed, med, tiny",86.64666666666666
+6010,C35H52O13S,3,"bigmed, med, tiny",70.74333333333334
+10464,C51H100O4,3,"bigmed, med, tiny",62.61000000000001
+10472,C51H101O7P,3,"bigmed, med, tiny",51.620000000000005
+5996,C35H50O6,3,"bigmed, med, tiny",57.626666666666665
+935,C15H28O2,3,"bigmed, med, tiny",71.04
+937,C15H28O4,3,"bigmed, med, tiny",69.98333333333333
+5983,C35H48O10,3,"bigmed, med, tiny",58.199999999999996
+10487,C51H68O6,3,"bigmed, med, tiny",59.16
+5979,C35H46O7,3,"bigmed, large, med",57.800000000000004
+5978,C35H46O2,3,"large, med, tiny",61.72666666666667
+5973,C35H45NO10,3,"large, med, tiny",62.31
+5972,C35H44O5,3,"bigmed, med, tiny",56.94
+10491,C51H72O4,3,"bigmed, large, med",56.57
+10707,C51H97NO8,3,"large, large, med",58.120000000000005
+10711,C51H97O8P,3,"bigmed, med, tiny",58.51666666666667
+5782,C34H55NO3,3,"bigmed, med, tiny",65.81666666666666
+5779,C34H55NO10,3,"large, med, tiny",58.71
+5624,C33H60O10,3,"bigmed, med, tiny",79.16666666666667
+5617,C33H59O7P,3,"large, med, tiny",72.31666666666666
+12739,C61H109NO6,3,"bigmed, large, med",64.49666666666667
+10896,C52H90O10,3,"bigmed, large, med",66.14333333333333
+985,C16H13F2N3O,3,"bigmed, med, tiny",77.54
+10901,C52H90O7,3,"bigmed, med, tiny",56.15333333333333
+5602,C33H58O15P2,3,"large, med, tiny",53.56666666666666
+10918,C52H93NO10,3,"bigmed, large, med",63.03666666666667
+5598,C33H58O11S,3,"bigmed, med, tiny",79.64333333333333
+10921,C52H93NO6,3,"bigmed, large, large",50.76666666666667
+3845,C27H44O3,3,"bigmed, med, tiny",56.89333333333334
+10928,C52H94NO7P,3,"large, large, med",58.72666666666667
+10932,C52H94O4,3,"bigmed, med, tiny",51.47
+10938,C52H95NO6S,3,"large, med, tiny",58.51333333333333
+5577,C33H57NO15,3,"large, med, tiny",57.86000000000001
+5571,C33H56O6,3,"large, large, tiny",58.09666666666667
+5565,C33H56O11,3,"bigmed, med, tiny",66.61
+10944,C52H96NO7P,3,"large, large, med",56.64333333333334
+5560,C33H56NO10P,3,"large, med, tiny",75.88
+10957,C52H97O9P,3,"bigmed, large, tiny",54.44333333333333
+5553,C33H55NO7,3,"bigmed, med, tiny",94.85666666666667
+5552,C33H55NO6,3,"bigmed, med, tiny",55.879999999999995
+1270,C17H29N5O4S,3,"bigmed, med, tiny",59.49333333333333
+997,C16H17N3O4,3,"bigmed, med, tiny",72.47333333333334
+999,C16H17NO3,3,"bigmed, med, tiny",66.66333333333334
+10980,C53H100O12,3,"bigmed, large, tiny",54.156666666666666
+5533,C33H53O12P,3,"bigmed, med, tiny",58.660000000000004
+5531,C33H53O10P,3,"large, med, tiny",79.21
+11467,C55H102N2O16,3,"bigmed, med, tiny",52.303333333333335
+5631,C33H61NO10,3,"large, med, tiny",68.04333333333334
+5635,C33H61NO8,3,"large, large, med",62.00333333333333
+5646,C33H62O10,3,"bigmed, large, large",59.96666666666666
+5711,C34H46O10,3,"bigmed, med, tiny",61.86666666666667
+5771,C34H54O10,3,"large, med, tiny",61.43000000000001
+5768,C34H53O9P,3,"large, med, tiny",76.01333333333334
+5761,C34H53NO13,3,"large, med, tiny",71.16666666666667
+12755,C61H111O11P,3,"bigmed, large, med",59.24333333333334
+5743,C34H52NO10P,3,"large, med, tiny",76.25999999999999
+10771,C52H105N2O7P,3,"bigmed, large, med",54.15333333333333
+5737,C34H51NO10,3,"large, med, tiny",61.083333333333336
+5736,C34H50O9,3,"bigmed, large, med",63.173333333333325
+5733,C34H50O6,3,"bigmed, large, large",58.31999999999999
+5728,C34H50NO12P,3,"large, med, tiny",70.67
+10785,C52H76O4,3,"large, large, med",55.413333333333334
+10790,C52H78NO10P,3,"bigmed, large, tiny",54.26666666666667
+5718,C34H48O10,3,"large, med, tiny",60.76666666666667
+10808,C52H80O11,3,"bigmed, med, tiny",73.98666666666666
+351,C12H18N4O2,3,"bigmed, med, tiny",71.55333333333333
+10809,C52H80O12S,3,"bigmed, med, tiny",53.26
+12752,C61H110O4,3,"bigmed, large, tiny",53.48
+12747,C61H110O10,3,"large, large, med",51.629999999999995
+5685,C33H65O12P,3,"bigmed, med, tiny",54.68666666666667
+10812,C52H80O4,3,"large, large, med",57.82
+5681,C33H65NO6,3,"bigmed, med, tiny",62.696666666666665
+975,C15H31O9P,3,"large, med, tiny",81.05
+10814,C52H80O9,3,"bigmed, large, med",81.06
+10817,C52H81NO5,3,"bigmed, large, med",57.84
+5671,C33H64NO7P,3,"bigmed, large, tiny",57.31
+10830,C52H83N2O6P,3,"bigmed, med, tiny",54.47
+10834,C52H83NO7,3,"bigmed, med, tiny",56.57333333333333
+5658,C33H63NO4,3,"bigmed, med, tiny",63.089999999999996
+11466,C55H101O8P,3,"bigmed, med, tiny",59.080000000000005
+11482,C55H103NO8,3,"bigmed, large, med",65.14666666666666
+3957,C27H51NO5,3,"bigmed, large, med",57.96666666666667
+1158,C16H32O4,3,"bigmed, med, tiny",89.45666666666666
+4521,C29H53NO8S,3,"bigmed, med, tiny",57.01666666666667
+4520,C29H53NO8,3,"large, med, tiny",69.07000000000001
+4512,C29H52O9S,3,"bigmed, med, tiny",70.63000000000001
+1184,C17H17ClN6O3,3,"bigmed, med, tiny",70.28
+1185,C17H17ClO6,3,"bigmed, med, tiny",64.22
+4507,C29H52O22P4,3,"bigmed, large, med",56.74666666666667
+1190,C17H18N2O,3,"large, med, tiny",74.32333333333334
+12105,C57H98O9,3,"bigmed, large, med",58.370000000000005
+4489,C29H51O13P,3,"large, med, tiny",67.86
+12523,C5H7N5O,3,"bigmed, med, tiny",87.14333333333333
+4474,C29H50O7,3,"bigmed, med, tiny",58.79
+4470,C29H50O2,3,"bigmed, med, tiny",56.77333333333333
+4117,C28H44O3,3,"bigmed, large, tiny",59.97
+4468,C29H50O13,3,"large, med, tiny",77.76666666666667
+1193,C17H18O7,3,"bigmed, med, tiny",79.46666666666667
+4451,C29H49NO4,3,"bigmed, large, tiny",62.443333333333335
+4448,C29H48O8S,3,"bigmed, med, tiny",66.98
+4446,C29H48O6S,3,"bigmed, med, tiny",61.18333333333334
+4441,C29H48O14,3,"large, med, tiny",74.79
+4436,C29H48NO8P,3,"large, med, tiny",77.69333333333334
+4427,C29H47NO7,3,"bigmed, med, tiny",54.68
+12187,C58H109O10P,3,"bigmed, large, med",73.53666666666668
+12193,C58H110NO8P,3,"bigmed, med, tiny",54.49333333333333
+4413,C29H46O4,3,"bigmed, med, tiny",72.88
+12194,C58H110NO9P,3,"bigmed, large, med",52.06666666666666
+4406,C29H46N2O,3,"large, med, tiny",58.78
+4391,C29H44O12,3,"large, med, tiny",66.95666666666666
+12221,C58H112O6,3,"bigmed, med, tiny",51.01666666666667
+12248,C58H117NO4,3,"bigmed, med, tiny",55.596666666666664
+4529,C29H54NO12P,3,"large, med, tiny",70.02333333333333
+1177,C17H12O5,3,"bigmed, med, tiny",72.09666666666668
+4106,C28H43NO8,3,"bigmed, med, tiny",54.74
+4568,C29H57N2O8P,3,"bigmed, med, tiny",62.84
+4057,C28H39NO3,3,"bigmed, med, tiny",73.38666666666666
+4059,C28H39NO6,3,"bigmed, med, tiny",62.20666666666667
+4586,C29H59NO,3,"large, med, tiny",68.70333333333333
+4582,C29H58NO7P,3,"large, large, med",52.92666666666667
+4578,C29H57O8P,3,"bigmed, med, tiny",63.17666666666667
+4065,C28H40O10,3,"bigmed, med, tiny",67.26333333333334
+12535,C5H9NO,3,"bigmed, med, tiny",86.44333333333333
+1169,C16H34O,3,"large, med, tiny",78.83333333333333
+12010,C57H113N2O6P,3,"large, large, med",52.28333333333333
+4572,C29H57NO7,3,"bigmed, large, med",69.39666666666666
+4571,C29H57NO5,3,"bigmed, med, tiny",57.156666666666666
+4086,C28H42O11,3,"bigmed, med, tiny",58.156666666666666
+4570,C29H57NO4,3,"bigmed, med, tiny",63.73666666666667
+4567,C29H57N2O7P,3,"large, med, tiny",77.59333333333333
+12530,C5H8O,3,"bigmed, med, tiny",85.80666666666666
+4565,C29H56O9,3,"large, large, med",63.32333333333333
+12020,C57H115NO3,3,"bigmed, med, tiny",58.10333333333333
+4091,C28H42O7,3,"large, med, tiny",64.51333333333334
+12041,C57H88O9,3,"large, med, tiny",66.37333333333333
+4546,C29H55N3O,3,"large, med, tiny",65.46333333333332
+4541,C29H54O5,3,"bigmed, med, tiny",62.5
+12042,C57H89NO10,3,"large, med, tiny",52.776666666666664
+4539,C29H54O3,3,"bigmed, med, tiny",84.48333333333333
+4538,C29H54O21P4,3,"bigmed, large, tiny",71.61333333333333
+12043,C57H89NO7,3,"large, med, tiny",56.79333333333333
+4095,C28H42O9,3,"bigmed, med, tiny",62.32999999999999
+4100,C28H43NO5,3,"bigmed, large, med",66.14
+248,C11H20O,3,"bigmed, med, tiny",73.52333333333333
+4380,C29H42O9,3,"bigmed, med, tiny",68.41666666666667
+4379,C29H42O8,3,"bigmed, med, tiny",63.550000000000004
+4377,C29H42O6S,3,"large, med, tiny",70.11333333333333
+4155,C28H46O8,3,"large, med, tiny",71.69666666666667
+12389,C59H112O14,3,"bigmed, large, tiny",68.31666666666666
+12510,C5H13NO,3,"bigmed, med, tiny",91.07
+12399,C59H113O10P,3,"bigmed, large, tiny",60.39333333333334
+12405,C59H114O12S,3,"bigmed, large, tiny",60.25
+12406,C59H114O13S,3,"bigmed, med, tiny",66.55
+4248,C28H52O4,3,"large, large, med",60.54333333333333
+12411,C59H115NO11S,3,"bigmed, large, tiny",59.51333333333334
+4244,C28H52O10,3,"bigmed, med, tiny",68.92333333333333
+1226,C17H23N5O7,3,"large, med, tiny",82.57333333333334
+265,C11H21NO7,3,"bigmed, med, tiny",62.080000000000005
+262,C11H21NO3,3,"large, med, tiny",57.699999999999996
+12426,C59H117O9P,3,"bigmed, med, tiny",55.18333333333334
+4230,C28H51NO8,3,"large, med, tiny",54.77666666666667
+4156,C28H47N3O3,3,"bigmed, med, tiny",64.49
+12384,C59H112NO8P,3,"large, large, med",53.446666666666665
+257,C11H21N5O3,3,"large, med, tiny",66.66000000000001
+12435,C59H88O11,3,"bigmed, med, tiny",74.86333333333333
+12438,C59H90O11,3,"bigmed, med, tiny",52.95666666666667
+4216,C28H50O4S,3,"large, med, tiny",58.723333333333336
+4215,C28H50O4,3,"bigmed, med, tiny",57.92666666666667
+4210,C28H50NO9P,3,"large, med, tiny",74.71
+4164,C28H47NO6S,3,"bigmed, med, tiny",53.98
+4209,C28H50NO6P,3,"bigmed, med, tiny",62.64000000000001
+12500,C5H11NO,3,"bigmed, med, tiny",85.52333333333333
+12473,C59H96NO11P,3,"bigmed, large, med",58.199999999999996
+4170,C28H47O9P,3,"bigmed, med, tiny",62.53333333333333
+1234,C17H24O4,3,"bigmed, med, tiny",64.86
+4181,C28H48O2,3,"bigmed, med, tiny",67.46666666666667
+4268,C28H54O4,3,"large, med, tiny",83.83
+4139,C28H46NO11P,3,"large, med, tiny",59.94
+12260,C58H90O10,3,"large, med, tiny",55.54333333333333
+4340,C29H39NO10,3,"bigmed, med, tiny",63.22666666666667
+4373,C29H42O2,3,"bigmed, large, med",56.93000000000001
+4119,C28H44O4S,3,"bigmed, large, tiny",54.75333333333333
+12281,C58H94O4,3,"bigmed, med, tiny",62.346666666666664
+4368,C29H42N2O3,3,"large, med, tiny",74.88666666666667
+4367,C29H41NO8,3,"bigmed, med, tiny",74.69
+4121,C28H44O5S,3,"bigmed, med, tiny",60.126666666666665
+12282,C58H94O5,3,"bigmed, large, med",63.36000000000001
+12296,C58H96O6,3,"large, med, tiny",62.97666666666667
+4122,C28H44O6S,3,"bigmed, large, med",60.68333333333334
+12301,C58H97O9P,3,"bigmed, med, tiny",58.03333333333333
+1202,C17H20O6,3,"bigmed, med, tiny",68.64
+12309,C58H98O9,3,"large, med, tiny",57.370000000000005
+12522,C5H6O5,3,"bigmed, large, med",81.90333333333332
+4333,C29H38O4,3,"bigmed, med, tiny",53.97666666666667
+12382,C59H111O9P,3,"bigmed, med, tiny",59.99333333333333
+4332,C29H38O3,3,"large, med, tiny",57.346666666666664
+4310,C29H34N4,3,"bigmed, med, tiny",65.53333333333333
+4304,C28H61O12P,3,"bigmed, med, tiny",67.21
+4303,C28H59N2O7P,3,"large, med, tiny",71.33666666666666
+4302,C28H59N2O6P,3,"bigmed, med, tiny",63.203333333333326
+1214,C17H22N6O2,3,"large, med, tiny",55.943333333333335
+4288,C28H57N2O6P,3,"large, med, tiny",72.12333333333333
+12518,C5H6O,3,"bigmed, med, tiny",86.44333333333333
+12363,C59H108O9,3,"bigmed, large, tiny",58.50666666666667
+1247,C17H26N4O,3,"large, med, tiny",66.31
+4282,C28H56NO7P,3,"bigmed, large, med",62.03666666666667
+4279,C28H55O12P,3,"bigmed, med, tiny",59.31
+4275,C28H55NO5,3,"bigmed, med, tiny",67.07666666666667
+11967,C57H107O8P,3,"bigmed, large, tiny",58.173333333333325
+12558,C60H104O11,3,"bigmed, large, med",52.083333333333336
+5067,C31H55O10P,3,"large, med, tiny",77.14666666666666
+4624,C30H40O,3,"large, med, tiny",52.083333333333336
+11568,C55H84O14,3,"large, med, tiny",54.30666666666667
+12603,C60H110O13S,3,"bigmed, med, tiny",56.74
+4975,C31H49NO8,3,"bigmed, large, tiny",59.48666666666667
+4974,C31H49NO7,3,"bigmed, med, tiny",79.71
+1111,C16H29NO5,3,"large, med, tiny",72.30666666666666
+12594,C60H109NO17,3,"bigmed, med, tiny",77.19666666666667
+11584,C55H86O13S,3,"large, med, tiny",66.89999999999999
+11587,C55H86O4,3,"bigmed, med, tiny",52.67666666666667
+4964,C31H48O13,3,"large, med, tiny",70.73
+4957,C31H47O13P,3,"bigmed, med, tiny",73.83666666666666
+4956,C31H47O12P,3,"large, med, tiny",57.75666666666667
+11592,C55H87NO6,3,"bigmed, med, tiny",55.23333333333333
+4945,C31H46O9,3,"bigmed, med, tiny",66.21
+4944,C31H46O8,3,"bigmed, large, tiny",64.33
+6091,C35H58O4,3,"bigmed, med, tiny",73.65666666666667
+4940,C31H46O2,3,"bigmed, large, med",61.25666666666667
+11611,C55H89NO6,3,"bigmed, large, med",56.96
+11616,C55H90NO9P,3,"bigmed, large, tiny",56.31666666666666
+1256,C17H27N3O4S,3,"large, med, tiny",60.22666666666667
+4909,C31H43NO12,3,"large, med, tiny",68.79333333333334
+11619,C55H90O14,3,"bigmed, large, tiny",51.370000000000005
+11620,C55H90O15,3,"large, med, tiny",57.71666666666667
+4014,C28H31N2O3,3,"bigmed, med, tiny",61.11666666666667
+11634,C55H92NO9P,3,"bigmed, med, tiny",65.37333333333333
+11637,C55H92O5,3,"bigmed, med, tiny",60.919999999999995
+12591,C60H109NO11S,3,"bigmed, large, med",54.9
+4880,C30H60O2,3,"bigmed, med, tiny",68.42
+4879,C30H60O12P2,3,"large, med, tiny",54.72
+4876,C30H60N2O3,3,"large, med, tiny",55.199999999999996
+4979,C31H49O9P,3,"large, med, tiny",77.99000000000001
+11562,C55H82O6,3,"bigmed, large, large",56.79
+3983,C27H53NO4,3,"bigmed, med, tiny",63.39666666666667
+5022,C31H53N11O5,3,"bigmed, large, tiny",58.873333333333335
+3969,C27H52O11S,3,"bigmed, large, med",62.74666666666667
+12493,C5H10O,3,"bigmed, med, tiny",91.07
+1082,C16H27N9O5,3,"bigmed, med, tiny",84.95
+11490,C55H104O10,3,"large, med, tiny",54.27
+11492,C55H104O12,3,"large, med, tiny",53.99
+1083,C16H27NO11,3,"large, med, tiny",89.34333333333332
+11493,C55H104O12S,3,"large, large, tiny",67.96
+5046,C31H54O14,3,"large, med, tiny",73.33
+5045,C31H54O12,3,"bigmed, med, tiny",58.23
+1090,C16H28N4O5,3,"bigmed, med, tiny",81.69
+5033,C31H53O14P,3,"large, med, tiny",78.63666666666667
+11520,C55H107NO3,3,"large, med, tiny",57.35333333333333
+1092,C16H28N6O4,3,"bigmed, large, med",68.22666666666667
+3976,C27H53N2O6P,3,"large, med, tiny",76.19333333333334
+11556,C55H74N4O5,3,"bigmed, med, tiny",82.82333333333334
+5019,C31H52O7,3,"bigmed, large, tiny",60.03333333333333
+1096,C16H28O,3,"large, med, tiny",75.54333333333334
+1097,C16H28O2,3,"bigmed, med, tiny",65.72333333333334
+12610,C60H111O10P,3,"bigmed, med, tiny",55.97666666666667
+5006,C31H52NO9P,3,"large, med, tiny",78.91333333333334
+5005,C31H52NO7P,3,"large, med, tiny",70.69666666666667
+310,C12H13NO2S,3,"large, med, tiny",82.58
+1104,C16H29N3O6,3,"large, med, tiny",54.39333333333334
+5001,C31H52N2O5S,3,"bigmed, med, tiny",55.373333333333335
+4997,C31H51O13P,3,"large, large, med",56.29
+11539,C55H109NO4,3,"bigmed, large, tiny",54.23666666666667
+3981,C27H53NO3,3,"bigmed, med, tiny",83.67
+11550,C55H111NO5,3,"bigmed, med, tiny",56.97666666666667
+4875,C30H59O8P,3,"bigmed, med, tiny",56.53333333333333
+11703,C55H99NO6,3,"large, large, tiny",52.550000000000004
+4859,C30H58O2,3,"bigmed, large, med",61.78666666666667
+4049,C28H38O4,3,"large, med, tiny",64.13666666666667
+11835,C56H87O10P,3,"bigmed, large, tiny",56.19
+11840,C56H88O4,3,"large, med, tiny",64.25333333333333
+12571,C60H106O9,3,"bigmed, large, tiny",53.74666666666667
+1143,C16H31NO5,3,"large, med, tiny",74.58333333333333
+11843,C56H89NO13,3,"bigmed, med, tiny",65.23333333333333
+4709,C30H49N3O2,3,"large, med, tiny",64.66666666666667
+1151,C16H32N6O5,3,"large, large, tiny",55.276666666666664
+4706,C30H48O2,3,"bigmed, med, tiny",54.120000000000005
+11856,C56H91NO5,3,"large, med, tiny",67.01666666666667
+283,C11H23NO2,3,"bigmed, med, tiny",88.50999999999999
+4692,C30H47NO8,3,"large, med, tiny",59.65
+4689,C30H47NO6,3,"bigmed, large, med",63.29333333333333
+4688,C30H47NO5S,3,"bigmed, large, med",56.376666666666665
+11874,C56H95NO11S,3,"bigmed, med, tiny",71.90333333333332
+11833,C56H87NO10,3,"bigmed, large, med",59.82333333333333
+11877,C56H95NO5,3,"large, med, tiny",55.223333333333336
+11881,C56H95NO9,3,"bigmed, med, tiny",54.72
+4051,C28H38O7,3,"bigmed, large, large",61.279999999999994
+1152,C16H32N8O5,3,"large, med, tiny",69.15666666666667
+12559,C60H104O6,3,"bigmed, large, med",54.56666666666666
+4668,C30H46N2O3,3,"bigmed, med, tiny",58.31666666666666
+11887,C56H96O7,3,"large, med, tiny",52.51333333333333
+11888,C56H97NO14,3,"bigmed, med, tiny",54.09
+4659,C30H45NO5S,3,"large, med, tiny",64.45333333333333
+4654,C30H45NO10S,3,"large, med, tiny",69.52333333333333
+11920,C57H100O4,3,"bigmed, large, tiny",53.46666666666667
+4635,C30H42O8,3,"bigmed, large, med",69.91
+11926,C57H101NO8,3,"bigmed, med, tiny",61.01666666666667
+4727,C30H50NO8P,3,"bigmed, large, large",54.086666666666666
+11822,C56H84O10,3,"bigmed, med, tiny",59.10666666666666
+4835,C30H57N3O,3,"bigmed, med, tiny",62.74
+1130,C16H31ClO3,3,"large, large, med",55.50333333333333
+4834,C30H57N2O6P,3,"large, med, tiny",66.44666666666666
+4833,C30H56O6,3,"bigmed, large, tiny",59.373333333333335
+1129,C16H30O6,3,"large, med, tiny",66.69
+4830,C30H56O3,3,"bigmed, med, tiny",61.913333333333334
+4829,C30H56O2,3,"bigmed, med, tiny",59.51666666666667
+12586,C60H108O13S,3,"large, med, tiny",66.34666666666666
+4828,C30H56O14,3,"bigmed, med, tiny",60.00333333333333
+4827,C30H56O10,3,"bigmed, med, tiny",68.24666666666667
+237,C11H19NO6,3,"large, med, tiny",79.85000000000001
+4822,C30H55O9P,3,"bigmed, med, tiny",64.98666666666666
+12573,C60H107NO11S,3,"bigmed, large, med",61.30666666666667
+4807,C30H55N3O3,3,"bigmed, large, med",58.846666666666664
+4038,C28H37NO4,3,"bigmed, med, tiny",74.84666666666666
+4798,C30H54NO8P,3,"bigmed, med, tiny",67.68333333333334
+11818,C56H82O11,3,"large, med, tiny",61.25666666666667
+11752,C56H105O9P,3,"large, med, tiny",53.18
+11766,C56H107NO9,3,"bigmed, med, tiny",52.03333333333333
+4788,C30H53O11P,3,"bigmed, med, tiny",57.31
+293,C12H10O2S,3,"large, med, tiny",88.45666666666666
+4773,C30H52O2,3,"bigmed, med, tiny",56.43666666666667
+4771,C30H52O13,3,"bigmed, med, tiny",54.26666666666667
+4759,C30H52N4O5,3,"large, med, tiny",63.85666666666666
+4755,C30H51O9P,3,"bigmed, med, tiny",62.303333333333335
+11800,C56H111NO11S,3,"bigmed, med, tiny",62.806666666666665
+287,C11H8,3,"bigmed, med, tiny",77.29
+4745,C30H51NO6S,3,"bigmed, large, tiny",63.586666666666666
+11812,C56H113O12P,3,"bigmed, med, tiny",56.56
+4738,C30H50O9,3,"bigmed, med, tiny",72.66666666666667
+4942,C31H46O4,3,"bigmed, med, tiny",67.43333333333334
+10242,C50H78NO10P,3,"bigmed, med, tiny",59.51333333333333
+6093,C35H58O6,3,"bigmed, med, tiny",73.37
+9252,C46H85NO10,3,"bigmed, large, med",72.59666666666666
+7679,C41H70NO10P,3,"large, large, tiny",60.01333333333333
+7683,C41H70O10,3,"bigmed, med, tiny",74.49333333333333
+495,C13H17N3O,3,"bigmed, large, med",66.89333333333333
+665,C14H21N3O9S,3,"large, med, tiny",70.79
+7698,C41H71NO4,3,"large, med, tiny",55.199999999999996
+7699,C41H71NO6,3,"bigmed, med, tiny",54.23666666666667
+7727,C41H73NO4,3,"large, large, med",53.27333333333333
+657,C14H20NO4,3,"large, med, tiny",74.42
+9240,C46H84NO8P,3,"large, med, tiny",57.74666666666667
+9238,C46H84NO14P,3,"bigmed, med, tiny",71.24666666666667
+9231,C46H83O13P,3,"large, med, tiny",51.663333333333334
+7738,C41H74O10,3,"large, med, tiny",64.01333333333334
+7739,C41H74O11,3,"large, med, tiny",52.02333333333333
+9225,C46H83NO4,3,"bigmed, large, large",59.07333333333333
+7677,C41H69O7P,3,"bigmed, med, tiny",78.32
+9288,C46H88O15P2,3,"bigmed, med, tiny",82.97333333333334
+9289,C46H88O4,3,"bigmed, large, med",56.99333333333334
+7669,C41H69NO7S,3,"large, med, tiny",61.45666666666667
+672,C14H22N2O2,3,"bigmed, large, med",63.91
+7660,C41H68O13,3,"large, med, tiny",66.89
+9299,C46H89NO7,3,"bigmed, med, tiny",61.13666666666668
+7653,C41H68NO6P,3,"large, med, tiny",62.31666666666666
+7643,C41H67NO3,3,"bigmed, large, med",57.836666666666666
+494,C13H17ClN2O2,3,"large, med, tiny",54.666666666666664
+9310,C46H90O10,3,"bigmed, large, tiny",54.44333333333333
+7636,C41H66O13,3,"large, med, tiny",86.93666666666667
+9314,C46H91NO10,3,"bigmed, large, tiny",58.0
+9316,C46H91NO3,3,"large, med, tiny",54.18333333333334
+9317,C46H91NO5,3,"bigmed, large, med",54.93666666666667
+9321,C46H91O8P,3,"large, med, tiny",55.6
+9329,C46H93O9P,3,"bigmed, large, large",54.026666666666664
+9223,C46H83NO18,3,"bigmed, med, tiny",61.50333333333333
+7752,C41H75NO2,3,"large, large, large",57.080000000000005
+9333,C47H66O4,3,"bigmed, med, tiny",64.25333333333333
+7873,C42H62O4,3,"bigmed, med, tiny",63.24
+7841,C41H81NO3,3,"bigmed, large, med",57.56
+9147,C46H77NO9,3,"large, med, tiny",63.33666666666667
+7847,C41H81O12P,3,"large, large, med",54.88333333333333
+7850,C41H82NO10P,3,"large, med, tiny",67.24
+7869,C42H60O6,3,"large, med, tiny",68.15333333333332
+7870,C42H62NO10P,3,"large, med, tiny",79.50333333333333
+506,C13H18O4,3,"bigmed, med, tiny",78.40666666666668
+9205,C46H82N2O16,3,"large, med, tiny",57.653333333333336
+507,C13H18O5,3,"bigmed, large, med",65.64
+9116,C46H74O11,3,"large, med, tiny",59.446666666666665
+7909,C42H68O14,3,"large, med, tiny",65.54
+9103,C46H73NO6,3,"large, med, tiny",59.169999999999995
+635,C14H16O5,3,"bigmed, med, tiny",59.28
+7937,C42H70O4,3,"large, med, tiny",58.09666666666667
+9159,C46H78O14,3,"large, med, tiny",60.18
+645,C14H18O4,3,"bigmed, med, tiny",74.56666666666666
+7828,C41H80NO7P,3,"bigmed, med, tiny",53.51333333333334
+9167,C46H79NO12S,3,"large, med, tiny",67.21
+7818,C41H79O10P,3,"large, med, tiny",69.92333333333333
+7817,C41H79NO9,3,"bigmed, large, med",74.88333333333334
+9173,C46H79NO8,3,"large, large, med",55.74666666666667
+7797,C41H78O13S,3,"large, med, tiny",61.54666666666666
+9177,C46H80NO10P,3,"large, med, tiny",60.169999999999995
+7792,C41H78NO8P,3,"bigmed, med, tiny",62.19333333333333
+9178,C46H80NO8P,3,"bigmed, med, tiny",67.02333333333333
+9191,C46H81NO3,3,"bigmed, large, tiny",54.800000000000004
+7772,C41H76O6,3,"bigmed, large, large",57.123333333333335
+9201,C46H81O14P,3,"bigmed, med, tiny",81.07000000000001
+7764,C41H75O8P,3,"large, med, tiny",59.9
+7758,C41H75O11P,3,"bigmed, med, tiny",64.75333333333333
+7755,C41H75NO7,3,"bigmed, large, med",58.36000000000001
+7614,C41H64O13,3,"bigmed, med, tiny",57.660000000000004
+7602,C41H62O9,3,"bigmed, med, tiny",58.839999999999996
+630,C14H16N4,3,"bigmed, med, tiny",74.86
+9418,C47H77NO8,3,"bigmed, med, tiny",60.78333333333333
+7414,C40H68O13S,3,"large, med, tiny",78.55333333333334
+7417,C40H68O2,3,"large, med, tiny",57.20666666666667
+7419,C40H69N2O6P,3,"large, med, tiny",57.29666666666666
+7425,C40H69NO4,3,"bigmed, large, tiny",59.79
+7426,C40H69NO5,3,"bigmed, large, med",54.419999999999995
+7427,C40H69NO6,3,"large, med, tiny",59.01
+7430,C40H69NO9,3,"bigmed, med, tiny",61.903333333333336
+9399,C47H75O13P,3,"large, med, tiny",66.36
+7431,C40H69O10P,3,"bigmed, med, tiny",64.74
+9411,C47H76O5,3,"bigmed, med, tiny",62.43333333333334
+7446,C40H70O9,3,"bigmed, med, tiny",56.696666666666665
+7447,C40H71N2O7P,3,"bigmed, med, tiny",74.16666666666667
+711,C14H25N5O7,3,"large, med, tiny",91.44
+9408,C47H76O15,3,"bigmed, med, tiny",57.69
+7402,C40H67NO9,3,"bigmed, med, tiny",58.82333333333333
+9426,C47H78NO8P,3,"large, med, tiny",53.54
+9428,C47H78O10,3,"bigmed, large, med",58.473333333333336
+9432,C47H78O4,3,"large, med, tiny",54.10666666666666
+9434,C47H78O9,3,"bigmed, large, med",55.52
+9446,C47H79O8P,3,"bigmed, med, tiny",52.196666666666665
+9448,C47H80NO10P,3,"large, med, tiny",81.82666666666667
+7375,C40H64O5,3,"bigmed, med, tiny",73.10666666666667
+9456,C47H80O13S,3,"bigmed, large, med",52.64333333333334
+9460,C47H80O4,3,"large, large, med",59.53333333333333
+7354,C40H62,3,"bigmed, large, tiny",71.64333333333333
+7353,C40H61O8P,3,"bigmed, large, tiny",52.663333333333334
+7349,C40H61NO5,3,"bigmed, large, tiny",56.13333333333333
+7345,C40H59O15P,3,"large, med, tiny",58.51666666666667
+9463,C47H81NO10,3,"bigmed, large, med",58.81
+7339,C40H56O5,3,"large, med, tiny",64.72666666666667
+7335,C40H56,3,"large, med, tiny",58.086666666666666
+7474,C40H73NO14,3,"bigmed, med, tiny",57.32666666666666
+9396,C47H75NO6,3,"large, med, tiny",55.6
+7594,C41H60O2,3,"large, med, tiny",60.166666666666664
+9354,C47H71O9P,3,"large, med, tiny",84.85666666666667
+9361,C47H72O14,3,"large, med, tiny",59.29999999999999
+693,C14H24N4O7,3,"bigmed, med, tiny",60.25666666666666
+7545,C40H78NO10P,3,"bigmed, large, med",55.053333333333335
+9360,C47H72O10,3,"bigmed, med, tiny",58.11666666666667
+9359,C47H72NO9P,3,"large, med, tiny",63.75666666666666
+9355,C47H72NO10P,3,"bigmed, med, tiny",60.72
+9350,C47H71NO5,3,"bigmed, large, med",65.51
+9395,C47H75NO10,3,"bigmed, med, tiny",58.410000000000004
+9345,C47H70O2,3,"bigmed, large, med",55.300000000000004
+7575,C40H82NO6P,3,"large, large, tiny",60.199999999999996
+7581,C41H48N2O8,3,"large, med, tiny",68.19
+686,C14H23NO11,3,"bigmed, med, tiny",68.34
+7590,C41H60NO12P,3,"large, med, tiny",68.94
+7592,C41H60O12,3,"large, med, tiny",70.33333333333333
+7540,C40H77NO9,3,"bigmed, med, tiny",63.69
+7539,C40H77NO8,3,"bigmed, med, tiny",62.85333333333333
+7534,C40H77NO15,3,"bigmed, large, med",66.12333333333333
+7533,C40H77NO12S,3,"large, med, tiny",66.43333333333334
+7526,C40H76O15,3,"bigmed, med, tiny",65.93333333333334
+700,C14H24O3,3,"bigmed, med, tiny",68.5
+701,C14H24O8,3,"bigmed, med, tiny",60.60999999999999
+9367,C47H73NO10,3,"bigmed, large, med",56.67333333333334
+488,C13H16N4O2,3,"bigmed, med, tiny",76.39666666666666
+7517,C40H76NO10P,3,"bigmed, med, tiny",57.15
+9372,C47H73NO7,3,"bigmed, large, med",78.29
+9382,C47H74NO11P,3,"bigmed, large, med",54.88666666666666
+9383,C47H74NO7P,3,"bigmed, large, large",58.35666666666666
+9385,C47H74NO9P,3,"large, med, tiny",84.85666666666667
+9387,C47H74O11,3,"bigmed, large, med",52.26666666666667
+9388,C47H74O12,3,"bigmed, med, tiny",53.23
+9391,C47H74O2,3,"large, med, tiny",53.48333333333333
+7939,C42H70O9,3,"bigmed, med, tiny",62.26333333333334
+7949,C42H71O10P,3,"bigmed, med, tiny",55.31
+10352,C50H89NO11S,3,"large, med, tiny",60.26666666666667
+8789,C45H70NO8P,3,"large, med, tiny",80.73333333333333
+8822,C45H74O12S,3,"bigmed, large, med",59.25333333333333
+8370,C43H82O4,3,"bigmed, large, med",55.623333333333335
+8792,C45H70O11P2,3,"large, med, tiny",73.96666666666665
+8381,C43H83NO8,3,"large, large, med",56.72333333333333
+8791,C45H70O11,3,"bigmed, med, tiny",55.06
+8386,C43H83O14P,3,"large, med, tiny",54.02
+8787,C45H70NO10P,3,"bigmed, med, tiny",53.47
+552,C13H23N5O7,3,"bigmed, med, tiny",79.7
+8778,C45H69NO6,3,"bigmed, med, tiny",74.97333333333333
+8397,C43H85N2O7P,3,"large, med, tiny",58.54
+8774,C45H68O13S,3,"large, med, tiny",78.80000000000001
+8399,C43H85NO3,3,"bigmed, large, med",55.53333333333333
+8770,C45H68NO7P,3,"bigmed, med, tiny",57.86333333333334
+547,C13H23N3O6,3,"large, med, tiny",67.39666666666666
+8823,C45H74O15,3,"large, med, tiny",73.63
+8827,C45H74O9,3,"bigmed, large, med",64.84333333333333
+8338,C43H80NO8P,3,"bigmed, med, tiny",54.276666666666664
+8833,C45H75NO5,3,"large, med, tiny",55.169999999999995
+8332,C43H79O12P,3,"large, med, tiny",73.08999999999999
+8840,C45H76NO9P,3,"large, med, tiny",88.00333333333333
+8841,C45H76O10,3,"bigmed, med, tiny",56.446666666666665
+8316,C43H78O12S,3,"bigmed, med, tiny",62.376666666666665
+8309,C43H78NO7P,3,"bigmed, large, med",58.95333333333334
+8298,C43H77NO9,3,"large, med, tiny",61.63666666666666
+8861,C45H77NO6,3,"large, med, tiny",70.87333333333333
+8862,C45H77NO7,3,"large, med, tiny",59.95666666666667
+534,C13H21NO6,3,"bigmed, med, tiny",58.99666666666667
+8284,C43H76O4,3,"large, med, tiny",56.49
+8864,C45H77NO9,3,"bigmed, large, med",63.81666666666666
+8866,C45H77O12P,3,"large, med, tiny",73.31666666666666
+8278,C43H76O11P2,3,"bigmed, med, tiny",63.76
+8422,C43H89N2O6P,3,"bigmed, large, med",63.06666666666666
+8432,C44H62O6,3,"large, med, tiny",68.53666666666668
+8874,C45H78NO7P,3,"bigmed, large, tiny",56.25666666666667
+8662,C44H83NO5,3,"bigmed, large, tiny",55.71666666666667
+8541,C44H75O13P,3,"large, med, tiny",67.03666666666668
+8669,C44H83O13P,3,"bigmed, med, tiny",71.51333333333334
+8543,C44H76NO10P,3,"bigmed, large, large",64.54333333333334
+8668,C44H83O12P,3,"bigmed, large, large",51.1
+8666,C44H83O10P,3,"large, med, tiny",70.44666666666667
+8557,C44H76O9,3,"large, med, tiny",57.13333333333333
+8562,C44H77NO5,3,"large, med, tiny",57.76333333333333
+8442,C44H66NO8P,3,"large, med, tiny",62.93666666666667
+8564,C44H77NO6S,3,"large, med, tiny",61.07
+562,C13H24N6O6,3,"large, med, tiny",74.67666666666666
+8571,C44H77O12P,3,"large, med, tiny",62.07666666666666
+559,C13H24N4O5,3,"bigmed, med, tiny",68.67333333333333
+8592,C44H78O9,3,"large, med, tiny",59.166666666666664
+8600,C44H79NO4,3,"bigmed, large, large",62.76333333333334
+8528,C44H75N2O6P,3,"bigmed, med, tiny",73.70666666666666
+8525,C44H74O4,3,"large, med, tiny",64.56666666666666
+8679,C44H84NO8P,3,"large, med, tiny",55.39666666666667
+8682,C44H84O13S,3,"large, med, tiny",51.74
+8506,C44H73NO8,3,"large, med, tiny",59.89333333333334
+8695,C44H85NO3,3,"large, large, large",59.4
+8499,C44H73NO11S,3,"large, med, tiny",67.55999999999999
+8489,C44H72O10,3,"bigmed, med, tiny",62.02
+8480,C44H71NO7,3,"bigmed, med, tiny",70.70666666666666
+8701,C44H85NO9,3,"large, large, tiny",53.17666666666667
+8477,C44H70O15,3,"large, med, tiny",60.86000000000001
+8473,C44H70NO11P,3,"bigmed, large, med",56.836666666666666
+8469,C44H69NO7,3,"large, med, tiny",65.30333333333333
+8465,C44H69N5O10,3,"large, med, tiny",73.73
+8710,C44H86NO8P,3,"large, large, med",53.06333333333333
+8455,C44H68NO13P,3,"large, med, tiny",69.8
+8722,C44H87NO3,3,"large, large, tiny",64.66
+8274,C43H76NO12P,3,"bigmed, med, tiny",57.99333333333334
+8265,C43H75NO9,3,"bigmed, med, tiny",66.78
+9079,C46H70O,3,"large, med, tiny",60.879999999999995
+8066,C42H79O8P,3,"large, large, tiny",60.47666666666667
+603,C13H30NO6P,3,"large, med, tiny",54.800000000000004
+8041,C42H78NO8P,3,"bigmed, med, tiny",54.48666666666667
+8050,C42H78O5,3,"bigmed, large, tiny",55.85333333333333
+8056,C42H79NO15,3,"large, med, tiny",55.843333333333334
+602,C13H29O6P,3,"bigmed, large, med",71.60000000000001
+8065,C42H79O12P,3,"large, med, tiny",70.92999999999999
+8070,C42H80NO9P,3,"large, large, large",52.81333333333333
+8115,C42H83O11P,3,"bigmed, large, med",55.47666666666667
+8073,C42H80O13P2,3,"large, med, tiny",86.49000000000001
+8074,C42H80O13S,3,"bigmed, med, tiny",61.576666666666675
+8078,C42H80O5,3,"large, med, tiny",62.32333333333332
+8091,C42H81O11P,3,"large, med, tiny",57.26
+8992,C45H86NO8P,3,"bigmed, med, tiny",54.836666666666666
+525,C13H21N3O6S,3,"large, large, med",52.32333333333333
+9019,C45H88NO8P,3,"large, med, tiny",65.61
+9022,C45H88O16P2,3,"bigmed, large, med",61.76666666666666
+8019,C42H76O6,3,"large, med, tiny",50.98
+8012,C42H76NO7P,3,"bigmed, med, tiny",59.90333333333333
+8010,C42H75O9P,3,"bigmed, med, tiny",58.5
+8008,C42H75O13P,3,"large, med, tiny",63.45666666666667
+8005,C42H75O10P,3,"bigmed, med, tiny",59.05666666666667
+8004,C42H75NO9,3,"bigmed, large, tiny",58.166666666666664
+8000,C42H75NO4,3,"large, med, tiny",56.196666666666665
+7981,C42H74NO10P,3,"bigmed, med, tiny",61.11333333333334
+9064,C46H67O8P,3,"large, med, tiny",56.95666666666667
+7979,C42H73O8P,3,"bigmed, med, tiny",59.92666666666667
+612,C14H12N4O2S,3,"large, med, tiny",66.07000000000001
+7973,C42H73NO9,3,"bigmed, med, tiny",62.333333333333336
+616,C14H12O4,3,"bigmed, med, tiny",76.06333333333333
+7960,C42H72O12S,3,"bigmed, large, med",61.580000000000005
+9078,C46H70NO9P,3,"bigmed, med, tiny",62.876666666666665
+8109,C42H83NO3,3,"large, large, med",56.71333333333333
+8123,C42H85NO5,3,"large, large, tiny",63.03
+8263,C43H75NO6S,3,"bigmed, large, tiny",76.43
+8230,C43H73NO11S,3,"large, med, tiny",56.25666666666666
+8922,C45H81NO14,3,"bigmed, med, tiny",62.67666666666667
+8220,C43H72NO8P,3,"large, med, tiny",87.64
+8222,C43H72O11,3,"bigmed, med, tiny",56.04
+8223,C43H72O12,3,"bigmed, large, med",57.89666666666667
+8915,C45H80O4,3,"bigmed, med, tiny",64.79666666666667
+8229,C43H72O9,3,"bigmed, large, med",61.330000000000005
+8234,C43H73NO7,3,"bigmed, large, med",74.74333333333334
+8125,C42H85O7P,3,"large, large, tiny",54.07666666666666
+8908,C45H80NO8P,3,"bigmed, med, tiny",52.53
+8903,C45H79O8P,3,"bigmed, large, tiny",56.72
+8901,C45H79O14P,3,"bigmed, large, tiny",53.57
+8250,C43H74O14,3,"bigmed, large, large",58.01333333333333
+8887,C45H79N2O7P,3,"large, med, tiny",57.48333333333333
+8253,C43H74O7,3,"bigmed, large, tiny",55.22
+589,C13H26N6O5,3,"bigmed, med, tiny",77.96333333333334
+8202,C43H70O13S,3,"large, med, tiny",84.93333333333334
+8930,C45H81O11P,3,"bigmed, med, tiny",62.04333333333333
+8197,C43H70NO11P,3,"bigmed, med, tiny",52.403333333333336
+531,C13H21N5O6,3,"bigmed, large, tiny",69.22666666666667
+8186,C43H69NO6,3,"bigmed, large, med",53.57
+8948,C45H83NO4,3,"bigmed, large, tiny",60.73666666666667
+8952,C45H83O11P,3,"large, med, tiny",50.85
+8954,C45H83O13P,3,"large, med, tiny",58.13666666666666
+8152,C43H65N5O10,3,"large, med, tiny",68.14
+8965,C45H84O14,3,"bigmed, med, tiny",73.57333333333334
+8966,C45H84O15,3,"bigmed, med, tiny",58.879999999999995
+8141,C43H62O6,3,"large, med, tiny",60.23
+8973,C45H85NO10,3,"bigmed, med, tiny",64.11666666666666
+8130,C43H48N4O6,3,"large, med, tiny",73.84333333333333
+8129,C42H87N2O7P,3,"large, large, tiny",55.29666666666666
+8126,C42H86NO6P,3,"large, med, tiny",56.03
+7334,C40H54O4,3,"large, med, tiny",65.49333333333334
+9471,C47H81NO8,3,"large, large, med",52.72
+9477,C47H81O7P,3,"bigmed, med, tiny",58.17666666666667
+6516,C37H51NO6,3,"large, med, tiny",63.53666666666667
+6501,C36H73NO3,3,"bigmed, large, med",65.91
+6506,C36H75N2O6P,3,"bigmed, large, tiny",61.93333333333334
+10044,C49H86O11,3,"large, med, tiny",57.96666666666666
+6510,C37H48N4O5,3,"bigmed, med, tiny",68.42999999999999
+6513,C37H48O4,3,"bigmed, large, med",63.15
+859,C15H22O4,3,"large, med, tiny",74.14999999999999
+858,C15H22O3,3,"bigmed, med, tiny",68.96333333333332
+6561,C37H58N7O18P3S,3,"bigmed, large, tiny",79.10000000000001
+416,C12H23N,3,"large, med, tiny",68.85000000000001
+6543,C37H56NO9P,3,"bigmed, med, tiny",57.85333333333333
+6549,C37H56O4,3,"bigmed, large, tiny",55.876666666666665
+855,C15H22N6O7,3,"bigmed, med, tiny",63.413333333333334
+10009,C49H84NO11P,3,"bigmed, med, tiny",83.63333333333334
+10007,C49H83O9P,3,"large, large, med",55.946666666666665
+6499,C36H73N2O7P,3,"bigmed, large, med",61.93
+6497,C36H72O4,3,"bigmed, med, tiny",58.86333333333334
+10048,C49H86O4,3,"bigmed, med, tiny",60.51
+10055,C49H87NO7S,3,"bigmed, med, tiny",57.826666666666675
+6484,C36H71NO5,3,"bigmed, large, med",62.586666666666666
+864,C15H23N3O4,3,"bigmed, med, tiny",87.32333333333334
+6476,C36H70NO7P,3,"large, med, tiny",60.71
+6474,C36H70NO12P,3,"bigmed, med, tiny",62.54
+10067,C49H88O2,3,"bigmed, large, tiny",56.03666666666667
+866,C15H23N5O4,3,"bigmed, large, med",60.72
+870,C15H23NO3,3,"bigmed, large, med",61.63333333333333
+6457,C36H69NO10,3,"large, large, tiny",59.99
+6454,C36H68O9,3,"bigmed, large, med",63.85999999999999
+10082,C49H89O18P,3,"bigmed, med, tiny",54.14666666666667
+6450,C36H68O15,3,"large, med, tiny",68.23333333333333
+6445,C36H67O9P,3,"large, med, tiny",77.73
+412,C12H22O4,3,"bigmed, med, tiny",72.11999999999999
+853,C15H22N4O3,3,"bigmed, med, tiny",68.79
+852,C15H22N2O4,3,"bigmed, large, tiny",54.056666666666665
+10107,C49H93N2O6P,3,"bigmed, large, large",51.89333333333334
+6667,C37H66O5,3,"bigmed, large, med",55.04666666666666
+9934,C49H76NO11P,3,"bigmed, med, tiny",62.449999999999996
+9933,C49H76NO10P,3,"bigmed, large, med",55.25666666666667
+9927,C49H74O9,3,"large, med, tiny",60.403333333333336
+6660,C37H66NO13P,3,"large, med, tiny",64.28333333333333
+9921,C49H74NO10P,3,"bigmed, med, tiny",54.93333333333334
+9918,C49H73O10P,3,"bigmed, med, tiny",60.06
+6668,C37H66O6,3,"bigmed, med, tiny",53.156666666666666
+9995,C49H83NO3,3,"bigmed, large, med",57.833333333333336
+6672,C37H67NO12,3,"large, med, tiny",65.05
+822,C15H20,3,"bigmed, large, tiny",57.67666666666667
+6678,C37H67NO8,3,"large, large, tiny",57.55666666666667
+9907,C49H54NO10P,3,"large, med, tiny",53.57333333333333
+9892,C48H96NO9P,3,"bigmed, large, tiny",55.24333333333334
+6690,C37H68O12,3,"large, med, tiny",81.53666666666668
+9937,C49H76O11,3,"bigmed, med, tiny",63.72666666666667
+9939,C49H76O14,3,"bigmed, med, tiny",59.02
+6625,C37H63NO5,3,"bigmed, med, tiny",55.02666666666667
+9948,C49H78NO10P,3,"large, med, tiny",76.95666666666666
+6618,C37H62O5,3,"bigmed, med, tiny",68.21
+6607,C37H61O9P,3,"large, med, tiny",67.19
+9959,C49H79O7P,3,"large, med, tiny",58.20666666666667
+9961,C49H79O9P,3,"bigmed, med, tiny",60.53666666666666
+9966,C49H80O15,3,"bigmed, large, med",56.96666666666667
+9967,C49H80O2,3,"large, large, tiny",59.25
+6600,C37H61NO6,3,"large, med, tiny",73.99000000000001
+831,C15H20O6,3,"large, med, tiny",72.36
+6598,C37H61NO4,3,"bigmed, large, med",68.91666666666667
+834,C15H21N3O,3,"bigmed, large, tiny",71.29666666666667
+836,C15H21N3O3,3,"bigmed, med, tiny",78.45333333333333
+420,C12H23N5O2,3,"bigmed, med, tiny",63.03
+6576,C37H59NO6S,3,"large, med, tiny",55.056666666666665
+10101,C49H92NO11P,3,"bigmed, med, tiny",55.333333333333336
+411,C12H22O3,3,"bigmed, med, tiny",68.42333333333333
+473,C13H12O4,3,"bigmed, large, tiny",69.58666666666666
+901,C15H26N6O4S,3,"large, med, tiny",85.14666666666666
+10268,C50H80O13S,3,"bigmed, large, tiny",61.826666666666675
+6191,C35H66O6,3,"large, med, tiny",59.32333333333333
+907,C15H26N8O5,3,"bigmed, large, large",60.620000000000005
+902,C15H26N6O6,3,"bigmed, med, tiny",66.42333333333333
+6217,C35H69N2O6P,3,"bigmed, large, large",71.25333333333333
+381,C12H20O4,3,"bigmed, med, tiny",78.16000000000001
+6222,C35H69NO5,3,"large, large, med",64.98333333333333
+894,C15H25O8P,3,"bigmed, large, tiny",81.11
+383,C12H21N3O,3,"bigmed, med, tiny",63.15
+898,C15H26N4O7,3,"large, med, tiny",64.33
+3802,C27H41NO7,3,"large, med, tiny",59.326666666666675
+6243,C35H72NO6P,3,"bigmed, med, tiny",65.07
+10241,C50H77O8P,3,"large, med, tiny",61.34
+6246,C35H73N2O7P,3,"bigmed, large, med",58.89666666666667
+6183,C35H66NO12P,3,"large, med, tiny",82.15333333333334
+913,C15H27N3O4,3,"large, large, large",63.17666666666667
+379,C12H20O2,3,"bigmed, med, tiny",76.07333333333334
+10293,C50H83NO11S,3,"bigmed, med, tiny",61.85999999999999
+6169,C35H64O12S,3,"large, med, tiny",62.23333333333333
+10296,C50H83NO21,3,"bigmed, med, tiny",90.7
+10308,C50H84NO12P,3,"large, med, tiny",69.91333333333334
+6154,C35H63NO3,3,"bigmed, med, tiny",86.75333333333333
+10313,C50H84O4,3,"bigmed, large, med",53.656666666666666
+378,C12H20O10,3,"bigmed, med, tiny",73.22666666666667
+6141,C35H62NO13P,3,"bigmed, med, tiny",74.28666666666668
+6129,C35H61NO6,3,"bigmed, med, tiny",70.94333333333334
+377,C12H20O,3,"bigmed, med, tiny",78.76
+10336,C50H87NO6,3,"bigmed, large, tiny",52.02666666666667
+6112,C35H60NO9P,3,"large, med, tiny",80.81333333333333
+920,C15H27NO4,3,"bigmed, med, tiny",72.03666666666666
+10350,C50H89N2O6P,3,"bigmed, med, tiny",59.413333333333334
+10237,C50H77NO7,3,"bigmed, large, med",71.79
+6264,C36H52O2,3,"bigmed, large, tiny",62.223333333333336
+6425,C36H66O11S,3,"bigmed, med, tiny",62.10999999999999
+6384,C36H63NO8,3,"bigmed, large, med",55.76
+6325,C36H59O12P,3,"large, med, tiny",55.60333333333333
+398,C12H21NO6,3,"bigmed, med, tiny",71.61333333333333
+6339,C36H60O11S,3,"large, med, tiny",87.47666666666667
+882,C15H24O5,3,"bigmed, med, tiny",79.02
+10167,C4H10O3,3,"large, med, tiny",78.79
+6380,C36H63NO6,3,"bigmed, med, tiny",61.39333333333334
+10142,C49H96NO7P,3,"bigmed, large, tiny",52.98
+891,C15H25NO6,3,"bigmed, med, tiny",62.71666666666667
+407,C12H22O,3,"bigmed, med, tiny",76.74
+6412,C36H65O12P,3,"bigmed, med, tiny",55.31
+10121,C49H94NO8P,3,"bigmed, large, med",58.96666666666667
+876,C15H24N6O5,3,"bigmed, med, tiny",74.53333333333333
+10120,C49H94NO7P,3,"bigmed, med, tiny",57.050000000000004
+408,C12H22O11,3,"bigmed, med, tiny",82.34
+6321,C36H59NO3,3,"bigmed, med, tiny",57.129999999999995
+10201,C50H100NO9P,3,"bigmed, large, med",51.5
+6314,C36H58O4,3,"bigmed, large, large",58.39333333333334
+6313,C36H58O14,3,"large, med, tiny",64.36666666666666
+6311,C36H58O11,3,"large, med, tiny",60.52
+10208,C50H103N2O7P,3,"bigmed, large, tiny",61.23333333333333
+10209,C50H70O4,3,"bigmed, large, med",65.99
+6302,C36H57NO8,3,"bigmed, med, tiny",65.58333333333333
+10210,C50H70O6,3,"bigmed, large, med",64.42333333333333
+6297,C36H56O5,3,"large, med, tiny",70.70333333333333
+6293,C36H56O11,3,"bigmed, med, tiny",61.160000000000004
+10224,C50H75O10P,3,"large, med, tiny",62.82333333333333
+10225,C50H75O11P,3,"bigmed, med, tiny",72.70333333333333
+6286,C36H55NO7,3,"large, med, tiny",71.17
+10226,C50H75O7P,3,"large, large, tiny",53.413333333333334
+6268,C36H53NO11,3,"large, med, tiny",73.05
+6267,C36H53NO10,3,"bigmed, med, tiny",59.39333333333334
+9889,C48H95O9P,3,"bigmed, large, med",56.080000000000005
+9880,C48H94O5,3,"large, large, med",58.06
+9878,C48H94NO9P,3,"bigmed, med, tiny",65.47
+459,C12H27N,3,"bigmed, med, tiny",75.39999999999999
+9630,C48H71O9P,3,"large, med, tiny",56.300000000000004
+7091,C39H63NO3,3,"bigmed, med, tiny",65.88666666666666
+9621,C47H97N2O8P,3,"bigmed, large, med",54.696666666666665
+9620,C47H97N2O7P,3,"large, med, tiny",56.06333333333333
+7109,C39H64O9,3,"bigmed, med, tiny",59.026666666666664
+758,C14H28O6,3,"bigmed, med, tiny",68.76666666666667
+7115,C39H65NO6S,3,"large, med, tiny",63.27333333333333
+9586,C47H91N2O6P,3,"bigmed, large, tiny",54.14666666666667
+7116,C39H65O10P,3,"large, med, tiny",68.18
+9609,C47H93O7P,3,"bigmed, large, med",55.55666666666667
+9596,C47H91O9P,3,"bigmed, large, tiny",54.55666666666667
+9590,C47H91NO3,3,"large, large, med",56.776666666666664
+7148,C39H67NO9,3,"bigmed, large, med",59.28666666666667
+7155,C39H68NO11P,3,"bigmed, med, tiny",69.66333333333334
+9631,C48H72NO10P,3,"large, large, med",56.28
+7082,C39H62O12,3,"large, med, tiny",82.34666666666668
+451,C12H25NO,3,"bigmed, med, tiny",71.84666666666666
+7080,C39H62O11P2,3,"bigmed, med, tiny",59.03
+7074,C39H61O13P,3,"bigmed, med, tiny",60.093333333333334
+7070,C39H61NO9,3,"large, med, tiny",65.75333333333333
+9641,C48H73NO9,3,"large, med, tiny",56.54333333333333
+7065,C39H60O13S,3,"bigmed, med, tiny",58.24333333333333
+7063,C39H60O12,3,"bigmed, med, tiny",59.60333333333333
+9650,C48H74NO9P,3,"large, med, tiny",67.50333333333333
+448,C12H24O3,3,"bigmed, large, tiny",73.83333333333333
+7044,C39H56O11,3,"large, med, tiny",74.53
+7038,C39H47N5O5,3,"large, med, tiny",66.52333333333333
+7033,C38H79N2O6P,3,"bigmed, med, tiny",58.82333333333333
+7032,C38H78O12P2,3,"bigmed, med, tiny",77.48
+7028,C38H77N2O7P,3,"large, med, tiny",76.59333333333333
+9653,C48H74O15,3,"bigmed, large, tiny",52.723333333333336
+7156,C39H68NO13P,3,"bigmed, med, tiny",70.33999999999999
+7162,C39H68O15,3,"large, med, tiny",54.78333333333333
+6723,C37H70O9,3,"bigmed, large, large",70.05
+7270,C39H77NO11S,3,"large, med, tiny",63.49
+7252,C39H75O11P,3,"bigmed, med, tiny",58.93666666666667
+734,C14H27N3O5S,3,"large, med, tiny",58.03
+7256,C39H76NO11P,3,"bigmed, med, tiny",58.26
+732,C14H26O7,3,"large, med, tiny",69.42333333333333
+9503,C47H83NO9,3,"bigmed, large, med",58.96
+7269,C39H77N2O8P,3,"bigmed, med, tiny",72.24
+7292,C39H79NO3,3,"large, large, tiny",70.31666666666666
+9580,C47H90NO8P,3,"large, large, tiny",56.096666666666664
+7304,C3H10NO4P,3,"bigmed, med, tiny",84.52666666666666
+7308,C3H4Cl2,3,"large, large, med",63.07666666666666
+9490,C47H82O6,3,"bigmed, med, tiny",80.62
+7315,C3H7O4P,3,"bigmed, med, tiny",84.53333333333333
+7316,C3H7O5P,3,"bigmed, med, tiny",74.80666666666667
+9486,C47H82O14,3,"bigmed, med, tiny",60.63333333333333
+7246,C39H75NO13,3,"bigmed, med, tiny",79.35666666666667
+7239,C39H74O5,3,"bigmed, large, med",67.66666666666667
+7238,C39H74O4,3,"large, med, tiny",55.35999999999999
+739,C14H27NO2,3,"bigmed, large, tiny",58.593333333333334
+7226,C39H73O7P,3,"large, med, tiny",63.26
+740,C14H27NO3,3,"bigmed, med, tiny",69.44333333333333
+9535,C47H85O7P,3,"bigmed, large, tiny",58.556666666666665
+7214,C39H72O6,3,"large, large, med",54.19
+9553,C47H87O18P,3,"bigmed, med, tiny",55.47666666666667
+741,C14H27NO3S,3,"large, med, tiny",62.93666666666667
